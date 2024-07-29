@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
-hash = "2e505480c06836448dfe277bdf93d184ca1aca821291574ddd3fccfe9f0ca387"
+hash = "ea8d625933e9bc04d7381e267e7393b669ff5218092dfb26bc67e0469c7f1b1f"
 metafile = true
 
 [[files]]

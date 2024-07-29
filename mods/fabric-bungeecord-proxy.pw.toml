@@ -1,0 +1,8 @@
+name = "Fabric-Bungeecord-Proxy"
+filename = "Fabric-Bungeecord-Proxy.jar"
+side = "server"
+
+[download]
+url = "https://github.com/disymayufei/Fabric-Bungeecord-Proxy/releases/download/1.8.0/fabric-proxy-1.8.0-1.20.1.jar"
+hash-format = "sha256"
+hash = "bea29d8a80d7bfb041cdbcc206c5d4ecd3cab29c40e3b7f75df86153dc7c71db"
