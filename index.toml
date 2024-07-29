@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
+file = "exclude.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "files/plethora.jar"
 hash = "c8fd9516d39b00f10128f84ef859e7c36cd0b69760f2410c14fd083fb44bd6aa"
+
+[[files]]
+file = "files/sc-goodies.jar"
+hash = "da552474eebc427d8d25d1076d6f00801e071ee9f71366c50e2e26f301000d01"
+
+[[files]]
+file = "files/sc-peripherals.jar"
+hash = "5c338c1b1755de9ab6a5d6c992650d2f4f80e13d17d534ca6162d60649bc7763"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -25,6 +37,11 @@ hash = "8de441dd57379d434805fb87722233fa39e346a9152828e7ff49b0ed9b2bd518"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
@@ -36,5 +53,24 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "ec21d256b404b22d19ab47e153b232ad3cb3bbf16ce1c328f9a1d75453d4060b"
+hash = "cbcbc6d945636d6a979c209cc50b8319f5136e66e29b657a16e5853b4b29cad0"
 metafile = true
+
+[[files]]
+file = "mods/sc-goodies.pw.toml"
+hash = "392f95f7be91f460b765797f80e13f4c923d1bb148990f832d9abce87f8ec623"
+metafile = true
+
+[[files]]
+file = "mods/sc-peripherals.pw.toml"
+hash = "3ef424f814677397f6aa771ad77108b5d727ab5ce479d631917c06600584a2bb"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true
+
+[[files]]
+file = "sync.sh"
+hash = "c5758c6a163b1ebb821e1f74d0430bb657a9933b70aaa15a2ea53fb33215174d"
