@@ -5,6 +5,14 @@ file = "exclude.txt"
 hash = "31ab2bb733dca314d363195270a35e717e7aac5359a73b3392ba0e2f71b84178"
 
 [[files]]
+file = "files/kristpay-client.jar"
+hash = "57d060334b1f6a49ffa56908dd18e162a5f7f2b61e6b4dadb73e95c5075a28a9"
+
+[[files]]
+file = "files/kristpay.jar"
+hash = "63f83bdd9fbc78791bb7f925bde3608426dd6c994198220701b19281be5a53f2"
+
+[[files]]
 file = "files/plethora.jar"
 hash = "c8fd9516d39b00f10128f84ef859e7c36cd0b69760f2410c14fd083fb44bd6aa"
 
@@ -69,6 +77,16 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "8de775fb08ea2c4cd44a14f6b3d6e02c953e9821121f51d85c6c9299ede239c7"
+metafile = true
+
+[[files]]
+file = "mods/kristpay-client.pw.toml"
+hash = "43a044d141b794b64017bde87a830fdf8346a81d22375d38b0e5964a489e7ddf"
+metafile = true
+
+[[files]]
+file = "mods/kristpay.pw.toml"
+hash = "cf251cdf014d57e0f30eb2a2f1f793f4c999599a2a25d6964f437eb4591dbd9c"
 metafile = true
 
 [[files]]

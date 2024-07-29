@@ -1,0 +1,9 @@
+name = "KristPay"
+filename = "kristpay.jar"
+side = "server"
+
+[download]
+url = "https://pack.ct.knijn.one/files/kristpay.jar"
+
+hash-format = "sha256"
+hash = "63f83bdd9fbc78791bb7f925bde3608426dd6c994198220701b19281be5a53f2"
