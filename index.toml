@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "files/plethora.jar"
+hash = "c8fd9516d39b00f10128f84ef859e7c36cd0b69760f2410c14fd083fb44bd6aa"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
@@ -23,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/plethora-fabric.pw.toml"
+hash = "a6c5ed7136d51c7f35b7d0919264ba919779f20a8a949cb4f31ca7ce774d8549"
 metafile = true
 
 [[files]]

@@ -4,3 +4,6 @@ side = "both"
 
 [download]
 url = "https://pack.ct.knijn.one/files/plethora.jar"
+
+hash-format = "sha256"
+hash = "c8fd9516d39b00f10128f84ef859e7c36cd0b69760f2410c14fd083fb44bd6aa"
