@@ -42,9 +42,8 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
-file = "mods/fabricproxy-lite.pw.toml"
-hash = "ea8d625933e9bc04d7381e267e7393b669ff5218092dfb26bc67e0469c7f1b1f"
-metafile = true
+file = "mods/fabricproxy-lite.disabled.toml"
+hash = "2e505480c06836448dfe277bdf93d184ca1aca821291574ddd3fccfe9f0ca387"
 
 [[files]]
 file = "mods/modmenu.pw.toml"
@@ -72,10 +71,15 @@ hash = "715910bb9f80b3fb2e8810b0d4532bc46b3c4cb2735ca912e8fcfdf6e1e7ac2e"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
 file = "sync.sh"
-hash = "c5758c6a163b1ebb821e1f74d0430bb657a9933b70aaa15a2ea53fb33215174d"
+hash = "8db3d59bb203282bac7d40f71121ffe26f5d842c0ffd37d606c13e6765dc38ba"

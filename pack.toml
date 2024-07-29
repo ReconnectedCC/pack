@@ -1,11 +1,11 @@
-name = "conneticut"
+name = "connecticut"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c7866386093f0bc08fc0bb19ee937a432ea7a8a213a23681af891d462271eacb"
+hash = "40771953692f88bd9477935f0363a8030ae80e03e0ca01ed4e30c352baa32b65"
 
 [versions]
 fabric = "0.16.0"
