@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "exclude.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "6ed00cdc77dc690d95e487ae9ad10d814da2e1d7f8eb5aba81f4c8f9f8a30c9e"
 
 [[files]]
 file = "files/plethora.jar"

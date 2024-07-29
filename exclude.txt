@@ -1,0 +1,4 @@
+sync.sh
+.git
+.gitattributes
+exclude.txt
