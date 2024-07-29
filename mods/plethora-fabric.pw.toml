@@ -1,0 +1,6 @@
+name = "Plethora"
+filename = "plethora.jar"
+side = "both"
+
+[download]
+url = "https://pack.ct.knijn.one/files/plethora.jar"
