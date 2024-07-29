@@ -42,10 +42,6 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
-file = "mods/fabricproxy-lite.disabled.toml"
-hash = "2e505480c06836448dfe277bdf93d184ca1aca821291574ddd3fccfe9f0ca387"
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
