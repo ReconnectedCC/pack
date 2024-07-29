@@ -1,0 +1,88 @@
+hash-format = "sha256"
+
+[[files]]
+file = "files/plethora.jar"
+hash = "c8fd9516d39b00f10128f84ef859e7c36cd0b69760f2410c14fd083fb44bd6aa"
+
+[[files]]
+file = "files/sc-goodies.jar"
+hash = "da552474eebc427d8d25d1076d6f00801e071ee9f71366c50e2e26f301000d01"
+
+[[files]]
+file = "files/sc-peripherals.jar"
+hash = "5c338c1b1755de9ab6a5d6c992650d2f4f80e13d17d534ca6162d60649bc7763"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "27144e16607d055634349f57db21a8e9b4caec2191d9708efc9536fec2b13a4d"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "f0a78df192bc21cb400c80eb3cf9dab9a6091e78284b73ad5cb8eb2eda03c167"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "09e8e459ae0d4437cc7bfbdd370cd7b5ac1461feaf232ba3a339f767bb0da231"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "e312df759b99d4ec23ccf68e5cdb65a2ae654f81f87319c3f55e187f04340460"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "6aa695f9ceedcb76ff1a1063455d0676edfbcc35bd09465faa4ccb4c1cad2d1a"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "3353568501e2256a551d5f05836f91711c41171bbccdb08a6cc44d36a76a8552"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "ab6af5e589ade8a9400eba7235ee509e66f640cd248bf3333b6001a084d63b3e"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "10d4123ed8ac731d23182cf084695b6babe329f2c61ec14f2673b26af56cf3b0"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "766ba910db4aae764c94d863a1d0e85d25d2c0a4b521059d98de2f19e306cc20"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
+metafile = true

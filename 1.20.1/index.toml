@@ -1,0 +1,123 @@
+hash-format = "sha256"
+
+[[files]]
+file = "files/plethora.jar"
+hash = "c8fd9516d39b00f10128f84ef859e7c36cd0b69760f2410c14fd083fb44bd6aa"
+
+[[files]]
+file = "files/sc-goodies.jar"
+hash = "da552474eebc427d8d25d1076d6f00801e071ee9f71366c50e2e26f301000d01"
+
+[[files]]
+file = "files/sc-peripherals.jar"
+hash = "5c338c1b1755de9ab6a5d6c992650d2f4f80e13d17d534ca6162d60649bc7763"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "b79cc58d8f59edf82a64eac716b84f11911b2bc63c40529575dbaf67f4896efb"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "186a6b68ee9f7595602923295dc3896b00f6370938a323c5dd74c939ba95bed7"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "8de775fb08ea2c4cd44a14f6b3d6e02c953e9821121f51d85c6c9299ede239c7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "95512ed1baa3ede3af0b614006ea4416804f60ecc2bb7fb07cd379c96946c485"
+metafile = true
+
+[[files]]
+file = "mods/plethora-fabric.pw.toml"
+hash = "f2a83090e4b027a98f08e1d7bc0ab21cd099a82f86f17311e44f11fab5a3d7e1"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "cbcbc6d945636d6a979c209cc50b8319f5136e66e29b657a16e5853b4b29cad0"
+metafile = true
+
+[[files]]
+file = "mods/sc-goodies.pw.toml"
+hash = "747552e550ca6516408609e5dbaf64777dcabdad5fcf379664330171300099f9"
+metafile = true
+
+[[files]]
+file = "mods/sc-peripherals.pw.toml"
+hash = "715910bb9f80b3fb2e8810b0d4532bc46b3c4cb2735ca912e8fcfdf6e1e7ac2e"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
+metafile = true

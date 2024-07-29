@@ -1,0 +1,12 @@
+name = "connecticut"
+version = "2.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e1f0d017eada8ab177279d3b4d359a51e709052c3926dac52f0bc8c2c7eef1e8"
+
+[versions]
+fabric = "0.16.0"
+minecraft = "1.21"

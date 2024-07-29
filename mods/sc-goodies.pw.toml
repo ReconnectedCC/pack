@@ -1,9 +1,0 @@
-name = "SwitchCraft Goodies"
-filename = "sc-goodies.jar"
-side = "both"
-
-[download]
-url = "https://pack.ct.knijn.one/files/sc-goodies.jar"
-
-hash-format = "sha256"
-hash = "da552474eebc427d8d25d1076d6f00801e071ee9f71366c50e2e26f301000d01"
