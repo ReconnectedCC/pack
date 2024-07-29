@@ -58,12 +58,12 @@ metafile = true
 
 [[files]]
 file = "mods/sc-goodies.pw.toml"
-hash = "392f95f7be91f460b765797f80e13f4c923d1bb148990f832d9abce87f8ec623"
+hash = "16735551a955b5881697f15ba8edbd5d6b98b12b51951f0eb4d98d8f8afb8631"
 metafile = true
 
 [[files]]
 file = "mods/sc-peripherals.pw.toml"
-hash = "3ef424f814677397f6aa771ad77108b5d727ab5ce479d631917c06600584a2bb"
+hash = "715910bb9f80b3fb2e8810b0d4532bc46b3c4cb2735ca912e8fcfdf6e1e7ac2e"
 metafile = true
 
 [[files]]
