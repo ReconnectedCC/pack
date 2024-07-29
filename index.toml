@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "exclude.txt"
-hash = "6ed00cdc77dc690d95e487ae9ad10d814da2e1d7f8eb5aba81f4c8f9f8a30c9e"
+hash = "31ab2bb733dca314d363195270a35e717e7aac5359a73b3392ba0e2f71b84178"
 
 [[files]]
 file = "files/plethora.jar"
@@ -27,6 +27,11 @@ hash = "b79cc58d8f59edf82a64eac716b84f11911b2bc63c40529575dbaf67f4896efb"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
@@ -43,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "f08086c797096ec7cea728330085f68f4d7f505938855a9b06f3c4c64a7bf6af"
+hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
 metafile = true
 
 [[files]]
@@ -58,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+hash = "8de775fb08ea2c4cd44a14f6b3d6e02c953e9821121f51d85c6c9299ede239c7"
 metafile = true
 
 [[files]]
