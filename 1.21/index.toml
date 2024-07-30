@@ -75,6 +75,11 @@ hash = "479bc973c77fa0e9fe2e0ce895ea833cd8ded62eb0fee2d682ee80eff4004070"
 metafile = true
 
 [[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "21a9b349fd73558a8c7a49748cb4e9d0a561905bbef7b0e5d9b6466a93c62345"
+metafile = true
+
+[[files]]
 file = "mods/fancymenu.pw.toml"
 hash = "6aa695f9ceedcb76ff1a1063455d0676edfbcc35bd09465faa4ccb4c1cad2d1a"
 metafile = true
