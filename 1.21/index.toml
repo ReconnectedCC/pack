@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "f0a78df192bc21cb400c80eb3cf9dab9a6091e78284b73ad5cb8eb2eda03c167"
+hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
 
 [[files]]
@@ -102,4 +102,9 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f951939979fa51d511a07955cffd73a14406c79024224ffff2f9dbe4634bae75"
 metafile = true
