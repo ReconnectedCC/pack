@@ -5,11 +5,6 @@ file = "config/customwindowtitle-client.toml"
 hash = "6ea1935777ddc1cd8b6d883f44b35117d9bb478d851c764e753b126936060e14"
 
 [[files]]
-file = "fabric-tab.pw.toml"
-hash = "479bc973c77fa0e9fe2e0ce895ea833cd8ded62eb0fee2d682ee80eff4004070"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
@@ -72,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-tab.pw.toml"
+hash = "479bc973c77fa0e9fe2e0ce895ea833cd8ded62eb0fee2d682ee80eff4004070"
 metafile = true
 
 [[files]]
