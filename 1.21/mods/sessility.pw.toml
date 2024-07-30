@@ -3,11 +3,6 @@ filename = "sessility-0.6.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/G9rHXWug/versions/y6h0z5Ks/sessility-0.6.1.jar"
-hash-format = "sha1"
-hash = "197c41b603714cf6e8753da352eb67269305558e"
-
-[update]
-[update.modrinth]
-mod-id = "G9rHXWug"
-version = "y6h0z5Ks"
+url = "https://pack.ct.knijn.one/files/1.21/sessility-0.6.1.jar"
+hash-format = "sha256"
+hash = "70146f1f7f213fc61327a624925858c487f56c368c8505ac3a1546ecc2e66a00"
