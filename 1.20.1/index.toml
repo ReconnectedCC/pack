@@ -1,18 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "files/plethora.jar"
-hash = "c8fd9516d39b00f10128f84ef859e7c36cd0b69760f2410c14fd083fb44bd6aa"
-
-[[files]]
-file = "files/sc-goodies.jar"
-hash = "da552474eebc427d8d25d1076d6f00801e071ee9f71366c50e2e26f301000d01"
-
-[[files]]
-file = "files/sc-peripherals.jar"
-hash = "5c338c1b1755de9ab6a5d6c992650d2f4f80e13d17d534ca6162d60649bc7763"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "13cb21e09b9d0d6622359f24f0bfed0e4123fcbaf7e65a1eb7e5396c47a56349"
 metafile = true
@@ -33,11 +21,6 @@ hash = "403c99e6b3c7f03bfc1ef8f0a23c79d9929eb42658be02bd0911c36b0174cf5b"
 metafile = true
 
 [[files]]
-file = "mods/dynmapforge.pw.toml"
-hash = "186a6b68ee9f7595602923295dc3896b00f6370938a323c5dd74c939ba95bed7"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
 metafile = true
@@ -49,7 +32,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "07da47dfb249a468557efd171c659308ada855a343bfb3f531d6e4c05ed8bca0"
+hash = "f08086c797096ec7cea728330085f68f4d7f505938855a9b06f3c4c64a7bf6af"
 metafile = true
 
 [[files]]
@@ -64,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "8de775fb08ea2c4cd44a14f6b3d6e02c953e9821121f51d85c6c9299ede239c7"
+hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
 metafile = true
 
 [[files]]
@@ -74,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "57dc365bf7be6358709c450e95e12cd4f48b84d7ea146e8bb7cf5ced1d0abafb"
+hash = "e1268d8b92c7a8b58dd205b613dedfc860af686190b15d531fe2552af449485f"
 metafile = true
 
 [[files]]
@@ -89,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
-hash = "f2a83090e4b027a98f08e1d7bc0ab21cd099a82f86f17311e44f11fab5a3d7e1"
+hash = "a6c5ed7136d51c7f35b7d0919264ba919779f20a8a949cb4f31ca7ce774d8549"
 metafile = true
 
 [[files]]
@@ -99,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/sc-goodies.pw.toml"
-hash = "747552e550ca6516408609e5dbaf64777dcabdad5fcf379664330171300099f9"
+hash = "16735551a955b5881697f15ba8edbd5d6b98b12b51951f0eb4d98d8f8afb8631"
 metafile = true
 
 [[files]]
@@ -108,8 +91,18 @@ hash = "715910bb9f80b3fb2e8810b0d4532bc46b3c4cb2735ca912e8fcfdf6e1e7ac2e"
 metafile = true
 
 [[files]]
+file = "mods/sessility.pw.toml"
+hash = "e581c087c57b5f865613ff0ec169fac5b20416f6c18398f7bb7fbffbb9858a7d"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
+metafile = true
+
+[[files]]
+file = "mods/tab.pw.toml"
+hash = "8ce6580c7e5abe119565be568126b8b4540936400b8163d2ad25cff5f2adf902"
 metafile = true
 
 [[files]]

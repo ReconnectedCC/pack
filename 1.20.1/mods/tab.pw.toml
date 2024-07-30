@@ -1,0 +1,13 @@
+name = "Fabric Tab List"
+filename = "fabric-tab-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9J38edBm/versions/XpUd6Y6N/fabric-tab-2.0.0.jar"
+hash-format = "sha1"
+hash = "972db40f1aae15ac2f13ffe4540de6c6f29d73a9"
+
+[update]
+[update.modrinth]
+mod-id = "9J38edBm"
+version = "XpUd6Y6N"
