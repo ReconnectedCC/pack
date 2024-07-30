@@ -1,20 +1,37 @@
 hash-format = "sha256"
 
 [[files]]
-file = "files/plethora.jar"
-hash = "c8fd9516d39b00f10128f84ef859e7c36cd0b69760f2410c14fd083fb44bd6aa"
-
-[[files]]
-file = "files/sc-goodies.jar"
-hash = "da552474eebc427d8d25d1076d6f00801e071ee9f71366c50e2e26f301000d01"
-
-[[files]]
-file = "files/sc-peripherals.jar"
-hash = "5c338c1b1755de9ab6a5d6c992650d2f4f80e13d17d534ca6162d60649bc7763"
+file = "config/customwindowtitle-client.toml"
+hash = "6ea1935777ddc1cd8b6d883f44b35117d9bb478d851c764e753b126936060e14"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
+metafile = true
+
+[[files]]
+file = "mods/blossomback.pw.toml"
+hash = "9c4678cdc79423aaf1ed44c36d5e60d46f0a4bfb40b1c51110ed93068fe7cb37"
+metafile = true
+
+[[files]]
+file = "mods/blossomhomes.pw.toml"
+hash = "c108c257c863e1730d448f2bf04b75e55998c6b988639c8c3ce5222fc898bf6e"
+metafile = true
+
+[[files]]
+file = "mods/blossomlib.pw.toml"
+hash = "db83028e5c934154b2e6dd654c57c4b4393a72f5459c7ae8f86a61e1dde245b9"
+metafile = true
+
+[[files]]
+file = "mods/blossomtpa.pw.toml"
+hash = "e046005eeb0ece8b3251622a5cbd30eca7d1a711198096d2e06b1e15f887c51c"
+metafile = true
+
+[[files]]
+file = "mods/blossomwarps.pw.toml"
+hash = "2d1c649018f3f772262b9e9e31f013e1cc421ffb7442b7ae0363856b7a97c1a5"
 metafile = true
 
 [[files]]
@@ -33,6 +50,11 @@ hash = "09e8e459ae0d4437cc7bfbdd370cd7b5ac1461feaf232ba3a339f767bb0da231"
 metafile = true
 
 [[files]]
+file = "mods/custom-window-title.pw.toml"
+hash = "bab07a104d0bc0eea07d207601441f39f43da0a77f788829a808c7d4b88648af"
+metafile = true
+
+[[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "e312df759b99d4ec23ccf68e5cdb65a2ae654f81f87319c3f55e187f04340460"
 metafile = true
@@ -45,11 +67,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
-metafile = true
-
-[[files]]
-file = "mods/fancymenu.pw.toml"
-hash = "6aa695f9ceedcb76ff1a1063455d0676edfbcc35bd09465faa4ccb4c1cad2d1a"
 metafile = true
 
 [[files]]
