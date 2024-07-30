@@ -1,0 +1,13 @@
+name = "Sessility"
+filename = "sessility-0.6.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/G9rHXWug/versions/y6h0z5Ks/sessility-0.6.1.jar"
+hash-format = "sha1"
+hash = "197c41b603714cf6e8753da352eb67269305558e"
+
+[update]
+[update.modrinth]
+mod-id = "G9rHXWug"
+version = "y6h0z5Ks"

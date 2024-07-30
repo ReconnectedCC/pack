@@ -70,6 +70,11 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "e93c516f9469293e640ce54f0c2955014951b3aa0d0ef8110f94bc96fd4dd946"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "3353568501e2256a551d5f05836f91711c41171bbccdb08a6cc44d36a76a8552"
 metafile = true
@@ -87,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "10d4123ed8ac731d23182cf084695b6babe329f2c61ec14f2673b26af56cf3b0"
+metafile = true
+
+[[files]]
+file = "mods/sessility.pw.toml"
+hash = "ac6c11e985558c984f0397ef1ce3a069688bf9aa4b33f37fc4e1d3339f35caed"
 metafile = true
 
 [[files]]
