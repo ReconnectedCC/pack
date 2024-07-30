@@ -50,6 +50,11 @@ hash = "09e8e459ae0d4437cc7bfbdd370cd7b5ac1461feaf232ba3a339f767bb0da231"
 metafile = true
 
 [[files]]
+file = "mods/crossstitch.pw.toml"
+hash = "c54a9b5907d160018a1d61ab9ba4c8867fd19aa4fe89721ca19e5e6ee92dcd83"
+metafile = true
+
+[[files]]
 file = "mods/custom-window-title.pw.toml"
 hash = "bab07a104d0bc0eea07d207601441f39f43da0a77f788829a808c7d4b88648af"
 metafile = true
