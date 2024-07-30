@@ -5,6 +5,11 @@ file = "config/customwindowtitle-client.toml"
 hash = "6ea1935777ddc1cd8b6d883f44b35117d9bb478d851c764e753b126936060e14"
 
 [[files]]
+file = "fabric-tab.pw.toml"
+hash = "479bc973c77fa0e9fe2e0ce895ea833cd8ded62eb0fee2d682ee80eff4004070"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
@@ -76,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/konkrete.pw.toml"
-hash = "3353568501e2256a551d5f05836f91711c41171bbccdb08a6cc44d36a76a8552"
+hash = "a789e41bacacf7b0af1a7b5d3ffbfe773ca0472d219054969057f2152bf65973"
 metafile = true
 
 [[files]]

@@ -1,0 +1,9 @@
+name = "Fabric Tab"
+filename = "fabric-tab.jar"
+side = "server"
+
+[download]
+url = "https://pack.ct.knijn.one/files/1.21/fabric-tab-2.1.0.jar"
+
+hash-format = "sha256"
+hash = "23bc7525f32c4319d10b8ba376870966129a0c38182e05dab91352be1e43556f"
