@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-tab.pw.toml"
-hash = "479bc973c77fa0e9fe2e0ce895ea833cd8ded62eb0fee2d682ee80eff4004070"
+hash = "c247c18bb8ee3314010f295b31b1504ac5587398e10330eb28a3225bc3edbb29"
 metafile = true
 
 [[files]]
