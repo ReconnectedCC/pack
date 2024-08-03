@@ -36,7 +36,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "27144e16607d055634349f57db21a8e9b4caec2191d9708efc9536fec2b13a4d"
+hash = "add4425fe34b17f11ceb4831af3ff0f7a7fcc79eb97efbfa9f6586a3b061bcea"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "6aa695f9ceedcb76ff1a1063455d0676edfbcc35bd09465faa4ccb4c1cad2d1a"
+hash = "e2172922112d07be8d77898d99f9ce26293b4a6cc4396e8a56d3111c99aa0b91"
 metafile = true
 
 [[files]]
@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/melody.pw.toml"
-hash = "985eea342c60a03b5c6674720f495ff4a4da61128792ba501407eca95a792415"
+hash = "2f4bf9792711690ca4442c6c71ad5dd3965c05c742522f0f12d725bb5d82a32c"
 metafile = true
 
 [[files]]
