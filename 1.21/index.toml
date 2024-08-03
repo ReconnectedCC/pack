@@ -105,6 +105,11 @@ hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "349f5aa9192539c3ce0d2c962ae05a2b4d75a75635c5e28c3f718fda72c79b71"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "10d4123ed8ac731d23182cf084695b6babe329f2c61ec14f2673b26af56cf3b0"
 metafile = true
