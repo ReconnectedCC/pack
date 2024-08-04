@@ -10,28 +10,8 @@ hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
 
 [[files]]
-file = "mods/blossomback.pw.toml"
-hash = "9c4678cdc79423aaf1ed44c36d5e60d46f0a4bfb40b1c51110ed93068fe7cb37"
-metafile = true
-
-[[files]]
-file = "mods/blossomhomes.pw.toml"
-hash = "c108c257c863e1730d448f2bf04b75e55998c6b988639c8c3ce5222fc898bf6e"
-metafile = true
-
-[[files]]
-file = "mods/blossomlib.pw.toml"
-hash = "db83028e5c934154b2e6dd654c57c4b4393a72f5459c7ae8f86a61e1dde245b9"
-metafile = true
-
-[[files]]
-file = "mods/blossomtpa.pw.toml"
-hash = "e046005eeb0ece8b3251622a5cbd30eca7d1a711198096d2e06b1e15f887c51c"
-metafile = true
-
-[[files]]
-file = "mods/blossomwarps.pw.toml"
-hash = "2d1c649018f3f772262b9e9e31f013e1cc421ffb7442b7ae0363856b7a97c1a5"
+file = "mods/asahi.pw.toml"
+hash = "2628bfd76c53fb2b61b11830b8bf5b982ab775c6cefee45fa4519cf0b26969f8"
 metafile = true
 
 [[files]]
@@ -55,8 +35,9 @@ hash = "c54a9b5907d160018a1d61ab9ba4c8867fd19aa4fe89721ca19e5e6ee92dcd83"
 metafile = true
 
 [[files]]
-file = "mods/ct-discord.toml"
-hash = "d6af8c379c46745ffbc49f9d4e05667ad2ff6648feea3f148108c122a3fb4e74"
+file = "mods/ct-discord.pw.toml"
+hash = "df653372898d045373a72c7518eef19255a00069c25a00f0287f462499fc0228"
+metafile = true
 
 [[files]]
 file = "mods/custom-window-title.pw.toml"
@@ -66,6 +47,11 @@ metafile = true
 [[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "e312df759b99d4ec23ccf68e5cdb65a2ae654f81f87319c3f55e187f04340460"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "567ae88bb53d6996b17f6f122cc3a0e4056f104dcb02204a0e09eae47be77f57"
 metafile = true
 
 [[files]]
@@ -96,6 +82,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "a789e41bacacf7b0af1a7b5d3ffbfe773ca0472d219054969057f2152bf65973"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
 metafile = true
 
 [[files]]

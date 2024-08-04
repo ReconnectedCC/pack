@@ -1,0 +1,13 @@
+name = "asahi"
+filename = "asahi-1.1.0+1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CPo6Ht5f/versions/Nhycnw30/asahi-1.1.0%2B1.20.4.jar"
+hash-format = "sha1"
+hash = "8cdf60b0df9e542e777861605a7c0e5f39f2bf7a"
+
+[update]
+[update.modrinth]
+mod-id = "CPo6Ht5f"
+version = "Nhycnw30"

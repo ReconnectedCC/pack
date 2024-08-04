@@ -1,0 +1,8 @@
+name = "ct-discord"
+filename = "ct-discord.jar"
+side = "server"
+
+[download]
+url = "https://pack.ct.knijn.one/files/1.21/ct-discord-1.3.jar"
+hash-format = "sha256"
+hash = "171add86199fed03c9dc3899cf214eb96073857363b917a2e0626d0665b9a930"
