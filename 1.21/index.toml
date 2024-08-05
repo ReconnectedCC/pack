@@ -20,6 +20,11 @@ hash = "add4425fe34b17f11ceb4831af3ff0f7a7fcc79eb97efbfa9f6586a3b061bcea"
 metafile = true
 
 [[files]]
+file = "mods/chat-signing-hider.pw.toml"
+hash = "229414fe375cdbdefadba82682c7164506b9db706c44b7630c1a93b718825c1a"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true
@@ -82,11 +87,6 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "a789e41bacacf7b0af1a7b5d3ffbfe773ca0472d219054969057f2152bf65973"
-metafile = true
-
-[[files]]
-file = "mods/luckperms.pw.toml"
-hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
 metafile = true
 
 [[files]]
