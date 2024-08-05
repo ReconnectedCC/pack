@@ -117,6 +117,11 @@ hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
 metafile = true
 
 [[files]]
+file = "mods/fabric-permissions-api.pw.toml"
+hash = "142ea053dc355fc9c8fee8d46cb702a7b076b78206c88c632e5d5355e76b1250"
+metafile = true
+
+[[files]]
 file = "mods/fabric-tab.pw.toml"
 hash = "2a162ca06005b558a9e43774f458aa3fbad16b1b065c3451499798fa799e804d"
 metafile = true
@@ -132,8 +137,18 @@ hash = "e2172922112d07be8d77898d99f9ce26293b4a6cc4396e8a56d3111c99aa0b91"
 metafile = true
 
 [[files]]
+file = "mods/flan.pw.toml"
+hash = "9c8b2f88654b7d03af1cfe008036b5d1258ea485efe71c42b622fdb4e415efcc"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "a789e41bacacf7b0af1a7b5d3ffbfe773ca0472d219054969057f2152bf65973"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
 metafile = true
 
 [[files]]
@@ -162,11 +177,6 @@ hash = "488de4e605e34cecbc51f466a6b1abf02ccc8485f59beeecca2e6bbf805fad57"
 metafile = true
 
 [[files]]
-file = "mods/sessility.pw.toml"
-hash = "c0206e309b1752da8974c5ac5064a2f945df479b163dbebfe0820fc8a85f9bce"
-metafile = true
-
-[[files]]
 file = "mods/spark.pw.toml"
 hash = "766ba910db4aae764c94d863a1d0e85d25d2c0a4b521059d98de2f19e306cc20"
 metafile = true
@@ -179,6 +189,11 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "71cf6afe41f483f58245070a5cd23a9f75157027e0fce3af1413816d0268ef4a"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-permissions.pw.toml"
+hash = "b15427c9f3d88545f1ceec0b4c13c9deb3c5d1ba93c944f223fe81cc282e4bb9"
 metafile = true
 
 [[files]]
