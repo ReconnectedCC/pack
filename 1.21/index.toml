@@ -154,6 +154,10 @@ hash = "f951939979fa51d511a07955cffd73a14406c79024224ffff2f9dbe4634bae75"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Jummits.CC.Textures.v1.3.0.zip"
+hash = "72fd9d1d9e2563cfbf790215fc20cfc54fc63af0b40beba29f1f86909a8f129c"
+
+[[files]]
 file = "resourcepacks/solars-light-armor.pw.toml"
 hash = "f6675607eeee22c1e1187fe9b1281db07d409ae3a34e903d75a1f3b5d7bbd1ad"
 metafile = true
