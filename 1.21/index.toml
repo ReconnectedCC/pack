@@ -5,6 +5,30 @@ file = "config/customwindowtitle-client.toml"
 hash = "6ea1935777ddc1cd8b6d883f44b35117d9bb478d851c764e753b126936060e14"
 
 [[files]]
+file = "config/fancymenu/assets/connecticut-144x144.icns"
+hash = "f39755e4a3125e7acd838512e66db267a3789ad06005d59fdf13d9dfda8ca27d"
+
+[[files]]
+file = "config/fancymenu/assets/connecticut-144x144.png"
+hash = "632514ee6a1e1d1bf1f560d44bda7f542428e4bf7467798a08ddd5173b56f515"
+
+[[files]]
+file = "config/fancymenu/assets/connecticut-16x16.png"
+hash = "910a8117c003ce511964d15bc800eefa69f50c664919f773514e01e4516ba5ef"
+
+[[files]]
+file = "config/fancymenu/assets/connecticut-32x32.png"
+hash = "b4c4fedcfccaf2fbe9b7eaf36e310dcec38430350aee347a32af14bf08cf8e60"
+
+[[files]]
+file = "config/fancymenu/customization/main_menu.txt"
+hash = "41053e9d9fd6ae1e8a6eef38b39c095a63fc9d5d4cc52eb040c98536484da974"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "77701ec6a18e1a9767a70214a313013e0e83aca70a9c65746afb0e6eaf42055e"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
