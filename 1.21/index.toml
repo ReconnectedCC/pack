@@ -157,6 +157,11 @@ hash = "10d4123ed8ac731d23182cf084695b6babe329f2c61ec14f2673b26af56cf3b0"
 metafile = true
 
 [[files]]
+file = "mods/seedguard.pw.toml"
+hash = "488de4e605e34cecbc51f466a6b1abf02ccc8485f59beeecca2e6bbf805fad57"
+metafile = true
+
+[[files]]
 file = "mods/sessility.pw.toml"
 hash = "c0206e309b1752da8974c5ac5064a2f945df479b163dbebfe0820fc8a85f9bce"
 metafile = true

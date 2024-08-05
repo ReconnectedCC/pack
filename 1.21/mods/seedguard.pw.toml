@@ -1,0 +1,13 @@
+name = "Seed Guard"
+filename = "seedguard+1.20.5-rc3-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/7e8ji5y2/versions/uLrh8ZKV/seedguard%2B1.20.5-rc3-1.0.1.jar"
+hash-format = "sha1"
+hash = "f773939166334c56b4abd4962cfda72c2a70e8c8"
+
+[update]
+[update.modrinth]
+mod-id = "7e8ji5y2"
+version = "uLrh8ZKV"
