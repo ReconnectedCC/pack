@@ -45,11 +45,6 @@ hash = "df653372898d045373a72c7518eef19255a00069c25a00f0287f462499fc0228"
 metafile = true
 
 [[files]]
-file = "mods/custom-window-title.pw.toml"
-hash = "bab07a104d0bc0eea07d207601441f39f43da0a77f788829a808c7d4b88648af"
-metafile = true
-
-[[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "e312df759b99d4ec23ccf68e5cdb65a2ae654f81f87319c3f55e187f04340460"
 metafile = true
