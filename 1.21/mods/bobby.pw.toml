@@ -1,0 +1,19 @@
+name = "Bobby"
+filename = "bobby-5.2.3+mc1.21.jar"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = "Extends your render distance by caching chunks. Works with all shaders that Iris supports"
+
+
+[download]
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/hL2qgP4K/bobby-5.2.3%2Bmc1.21.jar"
+hash-format = "sha1"
+hash = "1e2a972ae807df35994b0c3c671e8f50fbaec8af"
+
+[update]
+[update.modrinth]
+mod-id = "M08ruV16"
+version = "hL2qgP4K"

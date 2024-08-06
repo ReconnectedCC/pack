@@ -62,6 +62,11 @@ hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
 
 [[files]]
+file = "mods/bobby.pw.toml"
+hash = "58a320be2deb41af886b9a01e3e04c6fc1e5db25deb8313d9c92cf8ea98b11e5"
+metafile = true
+
+[[files]]
 file = "mods/cc-prometheus.pw.toml"
 hash = "184582f29e2202875c90d393f05926f125394364112521afbae41f5e3e5f7cf3"
 metafile = true
@@ -94,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/ct-server.pw.toml"
 hash = "c96faf7e410aed2e24b7c1d9bac3ba0848a1f9dc18b9f7f5f35dd6b8f670a38e"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "31c36cdd6ae384c54f8c90ba3d6d176eb996472ed718b0d8a78dd0fc75243f4b"
 metafile = true
 
 [[files]]
@@ -147,6 +157,11 @@ hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "487f4cbc862ea59fbe8483ebdf1c22a638afff510f15ccaec530e29fedc178d1"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "a789e41bacacf7b0af1a7b5d3ffbfe773ca0472d219054969057f2152bf65973"
 metafile = true
@@ -172,6 +187,11 @@ hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+hash = "f81f36f5f8557b127e26b13b30a336d057931a37d3f4b3424e1d7658847e6f5e"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "87567a7107a5fefa9408a0c1b0fa7271549e5ca7f5ddb7784f8b2b4feed3cd14"
 metafile = true
@@ -188,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "304ddfc811b5cfeebefb128e17923dac10067e4d8fdd90f2757f04ea52c0d33f"
+hash = "d6c49e8e48b2da4d54e232ab6281420df67cf9c163da449e7aa97938f231d481"
 metafile = true
 
 [[files]]
@@ -214,6 +234,11 @@ metafile = true
 [[files]]
 file = "mods/vanilla-permissions.pw.toml"
 hash = "b15427c9f3d88545f1ceec0b4c13c9deb3c5d1ba93c944f223fe81cc282e4bb9"
+metafile = true
+
+[[files]]
+file = "mods/vulkanmod.pw.toml"
+hash = "ca1841f103cb503196623e97396197d2987e9d55e97d543e144cd5daa454eab3"
 metafile = true
 
 [[files]]

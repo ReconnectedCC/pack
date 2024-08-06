@@ -4,7 +4,8 @@ side = "client"
 
 [option]
 optional = true
-default = true
+default = false
+description = "Improves performance significantly and is required by Iris and Nvidium. Might be unstable, in case of graphical issues, try disabling this mod."
 
 [download]
 url = "https://cdn.modrinth.com/data/AANobbMI/versions/RncWhTxD/sodium-fabric-0.5.11%2Bmc1.21.jar"

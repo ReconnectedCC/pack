@@ -1,0 +1,18 @@
+name = "Distant Horizons"
+filename = "DistantHorizons-2.1.2-a-1.21-neo-fabric.jar"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = "Extends your render distance using LODs causing a minimal hit on performance, works with some shaders through Iris."
+
+[download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/NCz4yZ3v/DistantHorizons-2.1.2-a-1.21-neo-fabric.jar"
+hash-format = "sha1"
+hash = "4f417abb5ada24f83e2a817b27541384e4ea98a2"
+
+[update]
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "NCz4yZ3v"
