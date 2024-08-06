@@ -1,8 +1,0 @@
-name = "ct-server"
-filename = "ct-server.jar"
-side = "server"
-
-[download]
-url = "https://pack.ct.knijn.one/files/1.21/ct-server-1.4.2.jar"
-hash-format = "sha256"
-hash = "3e0df6d9be6f5df4aef553a1dbc1dc6a6120122fdc1ce64ea5e3e97630514eea"

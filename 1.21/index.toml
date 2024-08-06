@@ -92,8 +92,9 @@ hash = "2cbf34f4045ac82365be521220495b0869d1ab310e9f072898a340e2fba4e964"
 metafile = true
 
 [[files]]
-file = "mods/ct-server.toml"
-hash = "223ea81b83a1b512b9fad22c040f20e91bd42a261abafff482d5414e3596fa56"
+file = "mods/ct-server.pw.toml"
+hash = "c96faf7e410aed2e24b7c1d9bac3ba0848a1f9dc18b9f7f5f35dd6b8f670a38e"
+metafile = true
 
 [[files]]
 file = "mods/dynmapforge.pw.toml"
