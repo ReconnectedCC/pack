@@ -177,6 +177,11 @@ hash = "766ba910db4aae764c94d863a1d0e85d25d2c0a4b521059d98de2f19e306cc20"
 metafile = true
 
 [[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "64b58a742f766fba51fdf1db8942d7810c71a2ea57e73b5919ae24f531e779a8"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
