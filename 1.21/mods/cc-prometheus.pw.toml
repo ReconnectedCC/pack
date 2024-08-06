@@ -5,4 +5,4 @@ side = "server"
 [download]
 url = "https://pack.ct.knijn.one/files/1.21/cc-prometheus-2.1.0.jar"
 hash-format = "sha256"
-hash = "a69855a23efe8f7581ceea185552b8868a0a71f5c5e42d736013d177c791c29e"
+hash = "62806e2a31f3cbe82b9c27eb552da4a689073bfa5cbae13cf74d5b7b8e9deed1"

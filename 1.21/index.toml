@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-prometheus.pw.toml"
-hash = "42ecd33519acf72afdd5367cbc45982928146e9a5e55a72658dae14c10f19482"
+hash = "184582f29e2202875c90d393f05926f125394364112521afbae41f5e3e5f7cf3"
 metafile = true
 
 [[files]]
