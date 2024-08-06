@@ -62,18 +62,8 @@ hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
 
 [[files]]
-file = "mods/asahi.pw.toml"
-hash = "2628bfd76c53fb2b61b11830b8bf5b982ab775c6cefee45fa4519cf0b26969f8"
-metafile = true
-
-[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "add4425fe34b17f11ceb4831af3ff0f7a7fcc79eb97efbfa9f6586a3b061bcea"
-metafile = true
-
-[[files]]
-file = "mods/chat-signing-hider.pw.toml"
-hash = "229414fe375cdbdefadba82682c7164506b9db706c44b7630c1a93b718825c1a"
 metafile = true
 
 [[files]]
@@ -108,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "dfe5807e1bef326fea19cfbdadb712a6c19d6cb594698ac8c61b1439f9e2fa98"
+hash = "9eb8a17e98af61f820864ce9fbe246cee75a3b86f51df8a9b92644829ea2faf8"
 metafile = true
 
 [[files]]
@@ -159,6 +149,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e37792db4c4b69e11243c7470f0f2a791dc016381e460cd5616eccb6b567b5ab"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
