@@ -62,6 +62,11 @@ hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
 
 [[files]]
+file = "mods/cc-prometheus.pw.toml"
+hash = "42ecd33519acf72afdd5367cbc45982928146e9a5e55a72658dae14c10f19482"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "add4425fe34b17f11ceb4831af3ff0f7a7fcc79eb97efbfa9f6586a3b061bcea"
 metafile = true
@@ -88,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-server.pw.toml"
-hash = "2bba3db17f18d4b9b4a3ca55eacfdc45c60baf047949eca6b3054b5a8685292a"
+hash = "223ea81b83a1b512b9fad22c040f20e91bd42a261abafff482d5414e3596fa56"
 metafile = true
 
 [[files]]
