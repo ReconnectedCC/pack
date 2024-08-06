@@ -3,6 +3,6 @@ filename = "ct-discord.jar"
 side = "server"
 
 [download]
-url = "https://pack.ct.knijn.one/files/1.21/ct-discord-1.3.jar"
+url = "https://pack.ct.knijn.one/files/1.21/ct-discord-1.3.2.jar"
 hash-format = "sha256"
-hash = "171add86199fed03c9dc3899cf214eb96073857363b917a2e0626d0665b9a930"
+hash = "abe3f5b23a380ad1f68f93c611e10adcc029712718c7529a996b1dcb56aa2829"

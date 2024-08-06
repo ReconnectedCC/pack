@@ -83,7 +83,12 @@ metafile = true
 
 [[files]]
 file = "mods/ct-discord.pw.toml"
-hash = "df653372898d045373a72c7518eef19255a00069c25a00f0287f462499fc0228"
+hash = "2cbf34f4045ac82365be521220495b0869d1ab310e9f072898a340e2fba4e964"
+metafile = true
+
+[[files]]
+file = "mods/ct-server.pw.toml"
+hash = "2bba3db17f18d4b9b4a3ca55eacfdc45c60baf047949eca6b3054b5a8685292a"
 metafile = true
 
 [[files]]
