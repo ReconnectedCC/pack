@@ -6,6 +6,7 @@ We try to get our mods from Modrinth if possible, if they are only on CurseForge
 | Mod                                                                   | Side   | Optional | Depends by                           | Depends on             | Notes                                     |
 | --------------------------------------------------------------------- | ------ | -------- | ------------------------------------ | ---------------------- | ----------------------------------------- |
 | Architectury API                                                      | Both   |          | Unknown                              |                        |                                           |
+| [BlueMap](https://modrinth.com/plugin/bluemap)                        | Server |          |                                      |                        |                                           |
 | [Bobby](https://modrinth.com/mod/bobby)                               | Client | Yes      |                                      |                        |                                           |
 | ~~[Asahi](https://modrinth.com/mod/asahi)~~                           | Client |          |                                      |                        | (currently removed because of issues)     |
 | [cc-prometheus](https://github.com/project-connecticut/cc-prometheus) | Server |          |                                      |                        | (A 1.21 fabric-only port)                 |
@@ -16,7 +17,6 @@ We try to get our mods from Modrinth if possible, if they are only on CurseForge
 | [ct-discord](https://github.com/project-connecticut/ct-discord)       | Server |          |                                      |                        |                                           |
 | [ct-server](https://github.com/project-connecticut/ct-server)         | Server |          |                                      | oωo                    |                                           |
 | [Distant Horizons](https://modrinth.com/mod/distanthorizons)          | Client | Yes      |                                      |                        |                                           |
-| [Dynmap®](https://modrinth.com/plugin/dynmap)                         | Server |          |                                      |                        |                                           |
 | [Essential Commands](https://modrinth.com/mod/essential-commands)     | Server |          |                                      |                        |                                           |
 | Fabric API                                                            | Both   |          |                                      |                        |                                           |
 | Fabric Language Kotlin                                                | Both   |          |                                      |                        |                                           |
