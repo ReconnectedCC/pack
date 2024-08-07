@@ -58,6 +58,11 @@ hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "409e69ec5fda79cc845cf34e04ee9cc9a7e523e639409b13c288178c570b0631"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "58a320be2deb41af886b9a01e3e04c6fc1e5db25deb8313d9c92cf8ea98b11e5"
 metafile = true
