@@ -93,9 +93,8 @@ hash = "2cbf34f4045ac82365be521220495b0869d1ab310e9f072898a340e2fba4e964"
 metafile = true
 
 [[files]]
-file = "mods/ct-pronouns.pw.toml"
+file = "mods/ct-pronouns.toml"
 hash = "2a5ccb9e6419790258b8eedd95097307481b4ee7c782633d0219652cbd09e015"
-metafile = true
 
 [[files]]
 file = "mods/ct-server.pw.toml"
