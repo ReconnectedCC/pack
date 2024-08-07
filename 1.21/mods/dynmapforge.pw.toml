@@ -1,0 +1,13 @@
+name = "Dynmap-Forge/Fabric"
+filename = "Dynmap-3.7-beta-6-fabric-1.21.jar"
+side = "server"
+
+[download]
+hash-format = "sha1"
+hash = "c0a60136951d2d76c9df3e4bd1de47eebbbf8d44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5442994
+project-id = 59433
