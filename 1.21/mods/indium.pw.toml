@@ -2,6 +2,11 @@ name = "Indium"
 filename = "indium-1.0.34+mc1.21.jar"
 side = "client"
 
+[option]
+optional = true
+default = false
+description = "Required by Sodium"
+
 [download]
 url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/K4hsdO9H/indium-1.0.34%2Bmc1.21.jar"
 hash-format = "sha1"

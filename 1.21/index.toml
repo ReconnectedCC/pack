@@ -93,6 +93,11 @@ hash = "2cbf34f4045ac82365be521220495b0869d1ab310e9f072898a340e2fba4e964"
 metafile = true
 
 [[files]]
+file = "mods/ct-pronouns.pw.toml"
+hash = "2a5ccb9e6419790258b8eedd95097307481b4ee7c782633d0219652cbd09e015"
+metafile = true
+
+[[files]]
 file = "mods/ct-server.pw.toml"
 hash = "c96faf7e410aed2e24b7c1d9bac3ba0848a1f9dc18b9f7f5f35dd6b8f670a38e"
 metafile = true
@@ -149,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ec7ddc7195eaec44adb0a060c48d919bedb82775a3b683f8da21ab2eb6921ab1"
+hash = "3f032732e5fa5fec8c1ad68cc6639ae8678151cfbc2df87a1b0f5f3ea3910477"
 metafile = true
 
 [[files]]

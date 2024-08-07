@@ -1,0 +1,8 @@
+name = "ct-pronouns"
+filename = "ct-pronouns.jar"
+side = "server"
+
+[download]
+url = "https://pack.ct.knijn.one/files/1.21/ct-pronouns-1.0.0.jar"
+hash-format = "sha256"
+hash = "fb58fd16728c8135992b4e625c9b3b635fc4d7f0ce1341a6c0d40d4e73f560b4"
