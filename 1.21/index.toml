@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/customwindowtitle-client.toml"
-hash = "6ea1935777ddc1cd8b6d883f44b35117d9bb478d851c764e753b126936060e14"
-
-[[files]]
 file = "config/fancymenu/assets/connecticut-144x144.icns"
 hash = "f39755e4a3125e7acd838512e66db267a3789ad06005d59fdf13d9dfda8ca27d"
 
