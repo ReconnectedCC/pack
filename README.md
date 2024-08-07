@@ -5,7 +5,7 @@ We try to get our mods from Modrinth if possible, if they are only on CurseForge
 ## Mod List
 | Mod                                                                   | Side   | Optional | Depends by                           | Depends on             | Notes                                     |
 | --------------------------------------------------------------------- | ------ | -------- | ------------------------------------ | ---------------------- | ----------------------------------------- |
-| Architectury API                                                      | Both   |          | Unknown                              |                        |                                           |
+| [Architectury API](https://modrinth.com/mod/architectury-api)         | Both   |          | Unknown                              |                        |                                           |
 | [BlueMap](https://modrinth.com/plugin/bluemap)                        | Server |          |                                      |                        |                                           |
 | [Bobby](https://modrinth.com/mod/bobby)                               | Client | Yes      |                                      |                        |                                           |
 | ~~[Asahi](https://modrinth.com/mod/asahi)~~                           | Client |          |                                      |                        | (currently removed because of issues)     |
