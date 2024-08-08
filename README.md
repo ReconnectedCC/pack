@@ -14,7 +14,7 @@ We try to get our mods from Modrinth if possible, if they are only on CurseForge
 | cloth-config                                                          | Server |          |                                      |                        |                                           |
 | [crossstitch](https://github.com/VelocityPowered/CrossStitch)         | Server |          |                                      |                        |                                           |
 | [ct-discord](https://github.com/project-connecticut/ct-discord)       | Server |          |                                      |                        |                                           |
-| [ct-discord](https://github.com/project-connecticut/ct-pronouns)      | Server |          |                                      |                        |                                           |
+| [ct-pronouns](https://github.com/project-connecticut/ct-pronouns)     | Server |          |                                      |                        |                                           |
 | [ct-server](https://github.com/project-connecticut/ct-server)         | Server |          |                                      | oωo                    |                                           |
 | [Distant Horizons](https://modrinth.com/mod/distanthorizons)          | Client | Yes      |                                      |                        |                                           |
 | [Dynmap®](https://modrinth.com/plugin/dynmap)                         | Server |          |                                      |                        |                                           |
