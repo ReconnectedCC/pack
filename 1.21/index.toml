@@ -198,6 +198,11 @@ hash = "87567a7107a5fefa9408a0c1b0fa7271549e5ca7f5ddb7784f8b2b4feed3cd14"
 metafile = true
 
 [[files]]
+file = "mods/placeholderapi.pw.toml"
+hash = "ec93c8cbdce5920fd3605dc1ce21c38102170e5bfd2be80313a7d6b6baedb25e"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
 hash = "10d4123ed8ac731d23182cf084695b6babe329f2c61ec14f2673b26af56cf3b0"
 metafile = true

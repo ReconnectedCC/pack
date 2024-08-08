@@ -1,0 +1,8 @@
+name = "placeholderapi"
+filename = "placeholderapi.jar"
+side = "server"
+
+[download]
+url = "https://pack.ct.knijn.one/files/1.21/fabric-placeholderapi-5.4-SNAPSHOT-all.jar"
+hash-format = "sha256"
+hash = "2d36a4043bd5cd4e493e9c5f5244c48f13d2f5ca70c7c8b9c5b162e4daea75e0"
