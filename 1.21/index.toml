@@ -88,9 +88,8 @@ hash = "c54a9b5907d160018a1d61ab9ba4c8867fd19aa4fe89721ca19e5e6ee92dcd83"
 metafile = true
 
 [[files]]
-file = "mods/ct-discord.pw.toml"
+file = "mods/ct-discord.toml"
 hash = "2cbf34f4045ac82365be521220495b0869d1ab310e9f072898a340e2fba4e964"
-metafile = true
 
 [[files]]
 file = "mods/ct-pronouns.pw.toml"
