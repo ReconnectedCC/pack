@@ -3,6 +3,6 @@ filename = "placeholderapi.jar"
 side = "server"
 
 [download]
-url = "https://pack.ct.knijn.one/files/1.21/fabric-placeholderapi-5.4-SNAPSHOT-all.jar"
+url = "https://pack.ct.knijn.one/files/1.21/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
 hash-format = "sha256"
-hash = "2d36a4043bd5cd4e493e9c5f5244c48f13d2f5ca70c7c8b9c5b162e4daea75e0"
+hash = "b83f590f0446820f8486885fa53f3581715bee2151c7d5c58892c2e6dcc64acd"

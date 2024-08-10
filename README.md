@@ -35,7 +35,7 @@ We try to get our mods from Modrinth if possible, if they are only on CurseForge
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports)           | Both   |          |                                      |                        | Public chat encryption is **not** allowed |
 | [Nvidium](https://modrinth.com/mod/nvidium)                           | Client | Yes      |                                      |                        |                                           |
 | [oωo (owo-lib)](https://modrinth.com/mod/owo-lib)                     | Server |          | ct-server                            |                        |                                           |
-| [Placeholder API](https://github.com/LuckPerms/placeholders/pull/58)  | Server |          | LuckPerms                            |                        |                                           |
+| [Placeholder API](https://github.com/LuckPerms/placeholders/pull/59)  | Server |          | LuckPerms                            |                        |                                           |
 | [Roughly Enough Items](https://modrinth.com/mod/rei)                  | Client |          |                                      |                        |                                           |
 | [Seedguard](https://modrinth.com/mod/seedguard)                       | Server |          |                                      |                        |                                           |
 | [Sodium](https://modrinth.com/mod/sodium)                             | Client | Yes      | Indium                               | Indium                 |                                           |
