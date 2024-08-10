@@ -186,6 +186,11 @@ hash = "100a5dfaccb55b107edc57e11fafc1222dc443ce9b669f0d79a39b488e3e45ae"
 metafile = true
 
 [[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+metafile = true
+
+[[files]]
 file = "mods/nvidium.pw.toml"
 hash = "f81f36f5f8557b127e26b13b30a336d057931a37d3f4b3424e1d7658847e6f5e"
 metafile = true
