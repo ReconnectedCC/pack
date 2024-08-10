@@ -58,6 +58,11 @@ hash = "995f4235d4fd4cb5b01eda59818aa48d1d3c8e2cf54bbf57d777b9deab2b180c"
 metafile = true
 
 [[files]]
+file = "mods/asahi.pw.toml"
+hash = "2628bfd76c53fb2b61b11830b8bf5b982ab775c6cefee45fa4519cf0b26969f8"
+metafile = true
+
+[[files]]
 file = "mods/bobby.pw.toml"
 hash = "58a320be2deb41af886b9a01e3e04c6fc1e5db25deb8313d9c92cf8ea98b11e5"
 metafile = true

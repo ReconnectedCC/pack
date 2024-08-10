@@ -7,8 +7,8 @@ We try to get our mods from Modrinth if possible, if they are only on CurseForge
 | --------------------------------------------------------------------- | ------ | -------- | ------------------------------------ | ---------------------- | ----------------------------------------- |
 | [Architectury API](https://modrinth.com/mod/architectury-api)         | Both   |          | Unknown                              |                        |                                           |
 | [Bobby](https://modrinth.com/mod/bobby)                               | Client | Yes      |                                      |                        |                                           |
-| ~~[Asahi](https://modrinth.com/mod/asahi)~~                           | Client |          |                                      |                        | (currently removed because of issues)     |
-| [cc-prometheus](https://github.com/project-connecticut/cc-prometheus) | Server |          |                                      |                        | (A 1.21 fabric-only port)                 |
+| [Asahi](https://modrinth.com/mod/asahi)                               | Client |          |                                      |                        |                                           |
+| [cc-prometheus](https://github.com/project-connecticut/cc-prometheus) | Server |          |                                      |                        | A 1.21 fabric-only port                   |
 | [ComputerCraft:Tweaked](https://modrinth.com/mod/cc-tweaked)          | Both   |          | sc-goodies, sc-peripherals, Plethora |                        |                                           |
 | [Chunky](https://modrinth.com/mod/chunky)                             | Server |          |                                      |                        |                                           |
 | cloth-config                                                          | Server |          |                                      |                        |                                           |
@@ -33,6 +33,7 @@ We try to get our mods from Modrinth if possible, if they are only on CurseForge
 | [Melody](https://modrinth.com/mod/melody)                             | Client |          | FancyMenu                            |                        |                                           |
 | [ModMenu](https://modrinth.com/mod/modmenu)                           | Client |          |                                      |                        |                                           |
 | [No Chat Reports](https://modrinth.com/mod/no-chat-reports)           | Both   |          |                                      |                        | Public chat encryption is **not** allowed |
+| [No Telemetry](https://modrinth.com/mod/no-telemetry)                 | Client |          |                                      |                        |                                           |
 | [Nvidium](https://modrinth.com/mod/nvidium)                           | Client | Yes      |                                      |                        |                                           |
 | [oωo (owo-lib)](https://modrinth.com/mod/owo-lib)                     | Server |          | ct-server                            |                        |                                           |
 | [Placeholder API](https://github.com/LuckPerms/placeholders/pull/59)  | Server |          | LuckPerms                            |                        |                                           |
