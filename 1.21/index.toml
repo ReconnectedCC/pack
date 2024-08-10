@@ -108,9 +108,8 @@ hash = "31c36cdd6ae384c54f8c90ba3d6d176eb996472ed718b0d8a78dd0fc75243f4b"
 metafile = true
 
 [[files]]
-file = "mods/dynmapforge.pw.toml"
+file = "mods/dynmapforge.toml"
 hash = "8d7c306069df2f848e0456772fa6d67678d7267cc38745920ba3edb138214e82"
-metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
