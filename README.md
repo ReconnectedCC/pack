@@ -12,6 +12,7 @@ We try to get our mods from Modrinth if possible, if they are only on CurseForge
 | [ComputerCraft:Tweaked](https://modrinth.com/mod/cc-tweaked)          | Both   |          | sc-goodies, sc-peripherals, Plethora |                        |                                           |
 | [Chunky](https://modrinth.com/mod/chunky)                             | Server |          |                                      |                        |                                           |
 | cloth-config                                                          | Server |          |                                      |                        |                                           |
+| [Command Aliases](https://modrinth.com/mod/commandaliases)            | Server |          |                                      |                        |                                           |
 | [crossstitch](https://github.com/VelocityPowered/CrossStitch)         | Server |          |                                      |                        |                                           |
 | [ct-discord](https://github.com/project-connecticut/ct-discord)       | Server |          |                                      |                        |                                           |
 | [ct-pronouns](https://github.com/project-connecticut/ct-pronouns)     | Server |          |                                      |                        |                                           |

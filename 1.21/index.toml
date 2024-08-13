@@ -88,6 +88,11 @@ hash = "09e8e459ae0d4437cc7bfbdd370cd7b5ac1461feaf232ba3a339f767bb0da231"
 metafile = true
 
 [[files]]
+file = "mods/commandaliases.pw.toml"
+hash = "83969653149bb9c7cc7e2f95c9c965edacfa4fbfedae9dec24b8f2511ccdcd68"
+metafile = true
+
+[[files]]
 file = "mods/crossstitch.pw.toml"
 hash = "c54a9b5907d160018a1d61ab9ba4c8867fd19aa4fe89721ca19e5e6ee92dcd83"
 metafile = true
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "a789e41bacacf7b0af1a7b5d3ffbfe773ca0472d219054969057f2152bf65973"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "be01c706542e5e1a1dd4f960f2405dbed2aa4d3a15168d2e8c49e2ba9e070030"
 metafile = true
 
 [[files]]
