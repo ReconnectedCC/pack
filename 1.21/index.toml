@@ -220,8 +220,9 @@ hash = "c99f5c75e4d258b1d97d45d47c1c5081ce0cea4f903b147067e0d71c8a834b84"
 metafile = true
 
 [[files]]
-file = "mods/player-pronouns.toml"
+file = "mods/player-pronouns.pw.toml"
 hash = "e12513e7dc87a5afdd6e4cb4beeda1b2dd53491553e19e51fe374ffc0d06bba5"
+metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
