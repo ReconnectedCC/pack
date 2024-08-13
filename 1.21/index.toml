@@ -102,9 +102,8 @@ file = "mods/ct-discord.toml"
 hash = "2cbf34f4045ac82365be521220495b0869d1ab310e9f072898a340e2fba4e964"
 
 [[files]]
-file = "mods/ct-pronouns.pw.toml"
+file = "mods/ct-pronouns.toml"
 hash = "0ed185520b2f0a734c04bdb24444f467ca44d5ecebc345e6348dc4722468cd2c"
-metafile = true
 
 [[files]]
 file = "mods/ct-server.pw.toml"
@@ -219,6 +218,10 @@ metafile = true
 file = "mods/placeholderapi.pw.toml"
 hash = "c99f5c75e4d258b1d97d45d47c1c5081ce0cea4f903b147067e0d71c8a834b84"
 metafile = true
+
+[[files]]
+file = "mods/player-pronouns.toml"
+hash = "e12513e7dc87a5afdd6e4cb4beeda1b2dd53491553e19e51fe374ffc0d06bba5"
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"

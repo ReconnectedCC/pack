@@ -1,0 +1,8 @@
+name = "player-pronouns"
+filename = "player-pronouns.jar"
+side = "server"
+
+[download]
+url = "https://pack.ct.knijn.one/files/1.21/player-pronouns-2.2.0+1.21-modified.jar"
+hash-format = "sha256"
+hash = "ce589ef39392f6e3cad0d35275189b22985e25abca765b8a05fc418210d59bde"
