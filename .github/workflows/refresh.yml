@@ -1,12 +1,7 @@
-# This is a basic workflow that is manually triggered
-
 name: Packwiz Refresh
 
-# Controls when the action will run. Workflow runs when manually triggered using the UI
-# or API.
 on:
   workflow_dispatch:
-    # Inputs the workflow accepts.
     inputs:
       mcversion:
        description: 'Minecraft Version'
