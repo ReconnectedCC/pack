@@ -1,13 +1,13 @@
 name = "WorldEdit"
-filename = "worldedit-mod-7.3.5.jar"
+filename = "worldedit-mod-7.3.6.jar"
 side = "server"
 
 [download]
 hash-format = "sha1"
-hash = "294d5e52285315c896fbfa45c1829ff43650522f"
+hash = "89d3d1a5b6d4d400adf5fc64ccc3f10add3ed7c3"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5564371
+file-id = 5613180
 project-id = 225608

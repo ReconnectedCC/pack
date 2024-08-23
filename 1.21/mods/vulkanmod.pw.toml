@@ -1,19 +1,17 @@
 name = "VulkanMod"
-filename = "VulkanMod_1.21-0.4.5.1.jar"
+filename = "VulkanMod_1.21-0.4.7.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "Vulkan renderer for Minecraft, useful if you want to use Nvidium but you dont have an NVIDIA GPU. Might be unstable, in case of graphical issues, try disabling this mod."
-
-
 [download]
-url = "https://cdn.modrinth.com/data/JYQhtZtO/versions/LpPW3nRn/VulkanMod_1.21-0.4.5.1.jar"
+url = "https://cdn.modrinth.com/data/JYQhtZtO/versions/US6s2g38/VulkanMod_1.21-0.4.7.jar"
 hash-format = "sha1"
-hash = "7a93da3071a0ed6627945dc41365e71cd5be2e47"
+hash = "4d9cb30a3a139c3c65659f0cd9d36e441575c776"
 
 [update]
 [update.modrinth]
 mod-id = "JYQhtZtO"
-version = "LpPW3nRn"
+version = "US6s2g38"
+
+[option]
+optional = true
+description = "Vulkan renderer for Minecraft, useful if you want to use Nvidium but you dont have an NVIDIA GPU. Might be unstable, in case of graphical issues, try disabling this mod."

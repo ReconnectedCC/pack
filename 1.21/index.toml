@@ -84,7 +84,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "09e8e459ae0d4437cc7bfbdd370cd7b5ac1461feaf232ba3a339f767bb0da231"
+hash = "3940277b51e7eb2aa8509e1e8309d3cd4f3e9501fa27a8332c5c1a9a6727a0e3"
 metafile = true
 
 [[files]]
@@ -126,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9eb8a17e98af61f820864ce9fbe246cee75a3b86f51df8a9b92644829ea2faf8"
+hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "14e87ff6253d2bd02697e46b4a9b5060465d72b71663def5236f829e30bac6d6"
+hash = "a909422ca28880c8aa967a66ca3b89fba223a9cfc662d98592c234d22361cf33"
 metafile = true
 
 [[files]]
@@ -156,17 +156,17 @@ metafile = true
 
 [[files]]
 file = "mods/flan.pw.toml"
-hash = "9c8b2f88654b7d03af1cfe008036b5d1258ea485efe71c42b622fdb4e415efcc"
+hash = "2d5425d16338448e69606e3b6377d820b8e63f0f1da89bc4454c2b05d66fd35c"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "3f032732e5fa5fec8c1ad68cc6639ae8678151cfbc2df87a1b0f5f3ea3910477"
+hash = "908cd49339a3a9b466b40c8c41681882aa1266ccdfbc974f3a117ea798a67e4a"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "487f4cbc862ea59fbe8483ebdf1c22a638afff510f15ccaec530e29fedc178d1"
+hash = "1d44516ed3b9a8e48101cec2039b34158eac9a5eab1b089137b6d3b0164e3a77"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/luckperms.pw.toml"
-hash = "37215db466ab8ec3d0e7d05490833254411d092e8b9656d14583f0c15bd7ed37"
+hash = "fd3c19d3524ec86a192e87859738bdd2f5e244115ae1125202592ac13c608979"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "10d4123ed8ac731d23182cf084695b6babe329f2c61ec14f2673b26af56cf3b0"
+hash = "eda0748a0546961f3c055fcf2d3bffb9f54b5cab929e751d1ae6561b0ce04286"
 metafile = true
 
 [[files]]
@@ -236,12 +236,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d6c49e8e48b2da4d54e232ab6281420df67cf9c163da449e7aa97938f231d481"
+hash = "bd575bb56b722c6f51830873d284e0d90467492719b2ed656f7ca78e9cc1dd0a"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "766ba910db4aae764c94d863a1d0e85d25d2c0a4b521059d98de2f19e306cc20"
+hash = "d19c35dc1e826fca74978fa6648c8725a8584a52660087d26fb214ba5f79ab2f"
 metafile = true
 
 [[files]]
@@ -266,12 +266,12 @@ metafile = true
 
 [[files]]
 file = "mods/vulkanmod.pw.toml"
-hash = "ca1841f103cb503196623e97396197d2987e9d55e97d543e144cd5daa454eab3"
+hash = "cbf1656d1d0b1049a2a08d2359fb72ed4c50467545c275f086c99c77870cfa14"
 metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "f951939979fa51d511a07955cffd73a14406c79024224ffff2f9dbe4634bae75"
+hash = "82692e61f9d34d1235cb3a9038972e70c746a0b50e4c4616b7bc866337da10b7"
 metafile = true
 
 [[files]]
