@@ -1,0 +1,34 @@
+name: Packwiz Update
+
+on:
+  workflow_dispatch:
+    inputs:
+      modname:
+        description: 'Mod to update'
+        default: '--all'
+        required: true
+        type: string
+      mcversion:
+       description: 'Minecraft Version'
+       default: '1.21'
+       required: true
+       
+jobs:
+  packupdate:
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Set up Go 1.19
+      uses: actions/setup-go@v5
+      with:
+       go-version: 1.19
+      id: go
+
+    - name: Install packwiz
+      run: go install github.com/packwiz/packwiz@latest
+    
+    - name: Checkout Repo
+      uses: actions/checkout@v4
+    
+    - name: Packwiz Update
+      run: cd ${{ inputs.mcversion }}/ && packwiz update ${{ inputs.modname }}
