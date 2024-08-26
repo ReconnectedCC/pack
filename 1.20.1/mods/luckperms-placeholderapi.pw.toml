@@ -1,0 +1,8 @@
+name = "luckperms-placeholderapi"
+filename = "luckperms-placeholderapi.jar"
+side = "server"
+
+[download]
+url = "https://pack.ct.knijn.one/files/1.21/LuckPerms-Fabric-PlaceholderAPI-Hook.jar"
+hash-format = "sha256"
+hash = "b83f590f0446820f8486885fa53f3581715bee2151c7d5c58892c2e6dcc64acd"

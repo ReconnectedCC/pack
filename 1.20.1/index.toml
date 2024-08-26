@@ -163,6 +163,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/luckperms-placeholderapi.pw.toml"
+hash = "763e4926dec36ad18e669fd080368234d625ea4290851635df8fd3634548aab8"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "7826b93c7f36611fbd9190481774daa349fa403875f8522d0ca4302e1345bd40"
 metafile = true
@@ -200,11 +205,6 @@ metafile = true
 [[files]]
 file = "mods/placeholderapi.pw.toml"
 hash = "299bbee6dd13bc123d1d93b169419255b447373b89912d4124e103b75f76c432"
-metafile = true
-
-[[files]]
-file = "mods/player-pronouns.pw.toml"
-hash = "094f66ea85dec862af36426d929c1e0d2754c63250f911c6a056c4beda1a1a82"
 metafile = true
 
 [[files]]
