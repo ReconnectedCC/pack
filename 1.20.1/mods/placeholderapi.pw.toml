@@ -1,0 +1,8 @@
+name = "placeholderapi"
+filename = "placeholderapi.jar"
+side = "server"
+
+[download]
+url = "https://github.com/Patbox/TextPlaceholderAPI/releases/download/2.1.3%2B1.20.1/placeholder-api-2.1.3+1.20.1.jar"
+hash-format = "sha256"
+hash = "b83f590f0446820f8486885fa53f3581715bee2151c7d5c58892c2e6dcc64acd"

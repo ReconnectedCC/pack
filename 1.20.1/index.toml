@@ -198,6 +198,11 @@ hash = "f2e41cbd3dd4370aa1bf2405db95e4f1301024b9554015e4d10b6ba5db66ce09"
 metafile = true
 
 [[files]]
+file = "mods/placeholderapi.pw.toml"
+hash = "29f56c772f456b1bc04e731cc2e775f616baae88aafc120ee5f58e0d90618938"
+metafile = true
+
+[[files]]
 file = "mods/player-pronouns.pw.toml"
 hash = "094f66ea85dec862af36426d929c1e0d2754c63250f911c6a056c4beda1a1a82"
 metafile = true
