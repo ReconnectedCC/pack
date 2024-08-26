@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholderapi.pw.toml"
-hash = "29f56c772f456b1bc04e731cc2e775f616baae88aafc120ee5f58e0d90618938"
+hash = "299bbee6dd13bc123d1d93b169419255b447373b89912d4124e103b75f76c432"
 metafile = true
 
 [[files]]
