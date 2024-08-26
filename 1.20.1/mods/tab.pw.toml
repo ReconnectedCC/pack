@@ -1,13 +1,9 @@
-name = "Fabric Tab List"
-filename = "fabric-tab-2.0.0.jar"
+name = "TAB"
+filename = "tab.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/9J38edBm/versions/XpUd6Y6N/fabric-tab-2.0.0.jar"
-hash-format = "sha1"
-hash = "972db40f1aae15ac2f13ffe4540de6c6f29d73a9"
+url = "https://pack.ct.knijn.one/files/1.20.1/TAB-v4.1.7.jar"
 
-[update]
-[update.modrinth]
-mod-id = "9J38edBm"
-version = "XpUd6Y6N"
+hash-format = "sha256"
+hash = "bdae086fcbb9f55f518f4cec8dbe765ae5bb6224381f9e7c5917fe81327fcc07"

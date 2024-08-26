@@ -1,0 +1,17 @@
+name = "VulkanMod"
+filename = "VulkanMod_1.20.1-0.4.7.jar"
+side = "client"
+
+[option]
+optional = true
+default = false
+
+[download]
+url = "https://cdn.modrinth.com/data/JYQhtZtO/versions/15yBKrl7/VulkanMod_1.20.1-0.4.7.jar"
+hash-format = "sha1"
+hash = "0a76303ba764de2f7c35e2d5fd582e1ab54a0d6d"
+
+[update]
+[update.modrinth]
+mod-id = "JYQhtZtO"
+version = "15yBKrl7"

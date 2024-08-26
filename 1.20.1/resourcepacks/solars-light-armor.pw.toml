@@ -1,0 +1,13 @@
+name = "Solar's Light Armor"
+filename = "Solars-Light-Armor-v1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/53eQUsef/versions/pRC0nWTn/Solars-Light-Armor-v1.1.zip"
+hash-format = "sha1"
+hash = "ab423ea6013a6cf48a592411aa6e0e5be22e28fa"
+
+[update]
+[update.modrinth]
+mod-id = "53eQUsef"
+version = "pRC0nWTn"

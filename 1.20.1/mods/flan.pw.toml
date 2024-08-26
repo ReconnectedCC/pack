@@ -1,0 +1,13 @@
+name = "Flan"
+filename = "flan-1.20.1-1.10.8-fabric.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Si383TIH/versions/dXY1ucXJ/flan-1.20.1-1.10.8-fabric.jar"
+hash-format = "sha1"
+hash = "ad0b4587fe94cbe4ec9626102fe23b77975afbfd"
+
+[update]
+[update.modrinth]
+mod-id = "Si383TIH"
+version = "dXY1ucXJ"
