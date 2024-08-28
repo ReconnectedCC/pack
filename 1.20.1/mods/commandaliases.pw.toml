@@ -1,6 +1,6 @@
 name = "Command Aliases"
 filename = "commandaliases-1.0.1+mc1.20.6-build.69.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/dHTBnV1v/versions/enqX4a4i/commandaliases-1.0.1%2Bmc1.20.6-build.69.jar"
