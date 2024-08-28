@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "efd1092527558e11c3628e4338859393c4ae309eb05f852cef16d73debbeeec3"
+hash = "7ea18508c7bc26ed6154576838456d3c8fc64d04ff19b35c6b993e23d4e7f8ad"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "75ffe202cd8947bbbb748a46bcd9d1cfb55d34a2fc95909b3001ac8433625fb7"
+hash = "afa829a55fe3f4c7341ef24e52dda9f817bad793ca6ef9700ee9ca0893bc94cd"
 metafile = true
 
 [[files]]
@@ -240,11 +240,6 @@ metafile = true
 [[files]]
 file = "mods/seedguard.pw.toml"
 hash = "fe312fff892dfe0c56ecafa77c7ad656143c45d7777fd17a89d0b8eb220cc497"
-metafile = true
-
-[[files]]
-file = "mods/sessility.pw.toml"
-hash = "e581c087c57b5f865613ff0ec169fac5b20416f6c18398f7bb7fbffbb9858a7d"
 metafile = true
 
 [[files]]
