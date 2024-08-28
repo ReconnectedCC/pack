@@ -9,7 +9,7 @@ layout-meta {
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  custom_menu_title = Project Connecticut at the Main Menu
+  custom_menu_title = ReconnectedCC
   [loading_requirement_container_meta:8855eee5-dc49-4d4a-9b61-2f21d36aaabf-1723021645551] = [groups:][instances:]
 }
 
@@ -38,7 +38,7 @@ element {
   nine_slice_custom_background = false
   nine_slice_border_x = 5
   nine_slice_border_y = 5
-  label = Play Connecticut
+  label = Play ReconnectedCC
   navigatable = true
   element_type = custom_button
   instance_identifier = 77a7e4ec-a7af-468b-b1d0-86406ea26db9-1722840655626
@@ -87,7 +87,7 @@ element {
 
 element {
   interactable = true
-  source = Minecraft/Project Connecticut 1.21
+  source = Minecraft/ReconnectedCC 1.20.1
   source_mode = direct
   shadow = true
   scale = 1.0

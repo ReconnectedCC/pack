@@ -26,7 +26,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "fcabfd2b472c7976a1f40af5c39129d1ae086be785cf8ab32b1ca467b1e9ce66"
+hash = "cfbcbbca0f2090520a60e2d16c7be9c241c5c13a09903867ef4d1ec643eadb0f"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -38,7 +38,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "d0f8b657eca163d732506a362e8e1d78f2386ca0e20ed58055de52b5fce81241"
+hash = "7a9efcee16d95a3d97e7d6d8abb1272afdc72b1286bf9a1538426183793e949d"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
