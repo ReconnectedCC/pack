@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
-hash = "549c165fb35a03e59689e6ec0f8d1177c4906c01afda77a48a30d5b6b550417a"
+hash = "1ce3d402f21d4d56341b90f0ba27a4a7fea7046014962c20d0cfc2f34bab4bd6"
 metafile = true
 
 [[files]]
