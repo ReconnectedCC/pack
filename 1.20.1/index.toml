@@ -17,6 +17,22 @@ file = "config/fancymenu/assets/connecticut-32x32.png"
 hash = "b4c4fedcfccaf2fbe9b7eaf36e310dcec38430350aee347a32af14bf08cf8e60"
 
 [[files]]
+file = "config/fancymenu/assets/rcc-16x16.png"
+hash = "d7952397a943a1c1a9ea470c8e8d7f872f9ef1d282bacef0736729b06a2b205f"
+
+[[files]]
+file = "config/fancymenu/assets/rcc-32x32.png"
+hash = "fc0a4b93574a2a6b4041424cac41ba1cecbb548366ca9ffab055be77dc48ffe2"
+
+[[files]]
+file = "config/fancymenu/assets/rcc-512x512.icns"
+hash = "565b613a1958c9e21e2629b640ee2d98cbc901ff9ab2c8695da3906c4c2ba8fa"
+
+[[files]]
+file = "config/fancymenu/assets/rcc-512x512.png"
+hash = "cd6efccf4c68463d5a05795ec02f91338f7b6997fc24e737eacc84d7f3403f1c"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -38,7 +54,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "7a9efcee16d95a3d97e7d6d8abb1272afdc72b1286bf9a1538426183793e949d"
+hash = "40a5eaeacff3f05b8c07eeb4c5487d7d31d42a89419215eed1d6240f6c329926"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
