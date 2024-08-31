@@ -228,6 +228,11 @@ hash = "f2e41cbd3dd4370aa1bf2405db95e4f1301024b9554015e4d10b6ba5db66ce09"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/placeholderapi.pw.toml"
 hash = "299bbee6dd13bc123d1d93b169419255b447373b89912d4124e103b75f76c432"
 metafile = true
