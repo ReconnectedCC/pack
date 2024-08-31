@@ -33,6 +33,10 @@ file = "config/fancymenu/assets/rcc-512x512.png"
 hash = "cd6efccf4c68463d5a05795ec02f91338f7b6997fc24e737eacc84d7f3403f1c"
 
 [[files]]
+file = "config/fancymenu/assets/rcc-wide-transparent.png"
+hash = "db5016c0d681d4dbf797c55aad3d309d91cd2a0ab47a1beb8250936888e231e4"
+
+[[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
 hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
 
@@ -42,7 +46,7 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "9965332aac88317dab0b658113cc4ce43eb86af0656450eafda28279d84cc0c7"
+hash = "180b35ff0a3762135409a4025ad9ebf22f1fcf7447ccd0620d84643e2234a999"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -54,7 +58,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "40a5eaeacff3f05b8c07eeb4c5487d7d31d42a89419215eed1d6240f6c329926"
+hash = "7c517de2d2ffe2cb715457c06d686c634b239469f2aa3fe1bd744e2260c6f9f3"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
