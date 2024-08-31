@@ -3,7 +3,7 @@ filename = "tab.jar"
 side = "server"
 
 [download]
-url = "https://pack.ct.knijn.one/files/1.20.1/TAB-v4.1.7.jar"
+url = "https://pack.reconnected.cc/files/1.20.1/TAB-v4.1.7.jar"
 
 hash-format = "sha256"
 hash = "bdae086fcbb9f55f518f4cec8dbe765ae5bb6224381f9e7c5917fe81327fcc07"

@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmap.pw.toml"
-hash = "34396c4e00e17bd89532c59fd6483b8d525d62f8f8c01261f01f75f1d0313a70"
+hash = "8786584968f7f22877792d69b7f60259c0e8f23a97394342899daf8df89101a6"
 metafile = true
 
 [[files]]
@@ -234,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
-hash = "1ce3d402f21d4d56341b90f0ba27a4a7fea7046014962c20d0cfc2f34bab4bd6"
+hash = "c68c9776c837d9fb8011eb47977cd77d95e061c4e561dfeb897e57980acd2657"
 metafile = true
 
 [[files]]
@@ -254,12 +254,12 @@ metafile = true
 
 [[files]]
 file = "mods/sc-goodies.pw.toml"
-hash = "d96c602791613d7c8909ab4bfae1e30d06ad5b452b894a71da33311165e58865"
+hash = "b1642268002e538018213eb0a5233a4352ef5e0c956698061f14a8261962e49c"
 metafile = true
 
 [[files]]
 file = "mods/sc-peripherals.pw.toml"
-hash = "dce1733f49cccbed7080eb12cc88b697da09d7285c21ca9ce044f617885f7ea4"
+hash = "6111a5abe40258e5de11529b24a1b3db03d3fa0c9bb053c027192400061d9581"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/tab.pw.toml"
-hash = "7bb03ee2118d9eacc87d9664b0cff38b7564b5bebb525bda0ec7e2e86e858e30"
+hash = "0be3c1fbcc6caffa3f906be385807cbf5ff4e7232ca60809268275be274496d3"
 metafile = true
 
 [[files]]
