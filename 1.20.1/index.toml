@@ -118,11 +118,6 @@ hash = "6fe38b29d7ed413fd691647d200bf2a10db8770311aef88ccabd679617127792"
 metafile = true
 
 [[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "7ea18508c7bc26ed6154576838456d3c8fc64d04ff19b35c6b993e23d4e7f8ad"
-metafile = true
-
-[[files]]
 file = "mods/dynmap.pw.toml"
 hash = "8786584968f7f22877792d69b7f60259c0e8f23a97394342899daf8df89101a6"
 metafile = true
