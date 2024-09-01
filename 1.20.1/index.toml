@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky.pw.toml"
-hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
+hash = "17c8ba2c2cedd4228f5fe0ca7b26b1193cf4bb36624a88bb24e1e1c41dbe90b8"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
+hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
 metafile = true
 
 [[files]]
@@ -313,8 +313,8 @@ hash = "351826e1e381ba6525d9521a968f3e76d5c985ae58464f3ae1ffcb0e05b1da7f"
 metafile = true
 
 [[files]]
-file = "mods/vulkanmod.pw.toml"
-hash = "2044e9ddd271e5bb48af03907e6d824052ed156a8ef1a820ca340f9837d8bb0e"
+file = "mods/worldedit.pw.toml"
+hash = "dba6d9f7abda43089ce5cd5f2b73555c9e211e1a3835bea7ccfca19bc051ce20"
 metafile = true
 
 [[files]]
