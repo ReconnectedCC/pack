@@ -113,6 +113,11 @@ hash = "85b19948067c6abf0e47fd1227d41297980413d51b5042813409c36284cc4426"
 metafile = true
 
 [[files]]
+file = "mods/ct-pronouns.pw.toml"
+hash = "5d4b8f30c5cfaed7921571d1762d77d87960af552d6dd038209aabff97795ddf"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "7ea18508c7bc26ed6154576838456d3c8fc64d04ff19b35c6b993e23d4e7f8ad"
 metafile = true
@@ -240,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
 hash = "c68c9776c837d9fb8011eb47977cd77d95e061c4e561dfeb897e57980acd2657"
+metafile = true
+
+[[files]]
+file = "mods/rcc-discord.pw.toml"
+hash = "f8272bf563d3e0ac55ed2517d588399cb32178441fbb519d2b0aaa1c83c2aecb"
 metafile = true
 
 [[files]]

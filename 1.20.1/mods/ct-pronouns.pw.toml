@@ -1,0 +1,9 @@
+name = "ct-pronouns"
+filename = "ct-pronouns.jar"
+side = "server"
+
+[download]
+url = "https://pack.reconnected.cc/files/1.20.1/ct-pronouns-1.1.0.jar"
+
+hash-format = "sha256"
+hash = "d9e07973c5032b90086667546f4e9f441dba2fac63cdd8033810829d06a4395f"
