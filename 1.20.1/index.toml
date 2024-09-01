@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-server.pw.toml"
-hash = "c793f408b86ee99e8263728de898f47101b04113f3e1bdc0229692c0c0e0e47a"
+hash = "1b92ed19ab0e0fb389513c623036affa8966e2dd223c9ea2fa978e3f805ece44"
 metafile = true
 
 [[files]]
