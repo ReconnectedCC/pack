@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-pronouns.pw.toml"
-hash = "5d4b8f30c5cfaed7921571d1762d77d87960af552d6dd038209aabff97795ddf"
+hash = "6fe38b29d7ed413fd691647d200bf2a10db8770311aef88ccabd679617127792"
 metafile = true
 
 [[files]]
@@ -249,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-discord.pw.toml"
-hash = "f8272bf563d3e0ac55ed2517d588399cb32178441fbb519d2b0aaa1c83c2aecb"
+hash = "3ce21c150c1c29cef779a4efc2a255eb5fca0525f6a625f433cb417ad144c5d4"
 metafile = true
 
 [[files]]
