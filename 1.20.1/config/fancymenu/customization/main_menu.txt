@@ -29,7 +29,7 @@ scroll_list_customization {
 
 element {
   button_element_executable_block_identifier = deb11e41-b57c-4dcd-bab6-a9372299e4a7-1722840655626
-  [executable_action_instance:fdd1f3c6-64c6-4c29-803e-e3b72c299e6d-1722840754240][action_type:joinserver] = reconnected.cc:25565
+  [executable_action_instance:fdd1f3c6-64c6-4c29-803e-e3b72c299e6d-1722840754240][action_type:joinserver] = play.reconnected.cc:25565
   [executable_block:deb11e41-b57c-4dcd-bab6-a9372299e4a7-1722840655626][type:generic] = [executables:fdd1f3c6-64c6-4c29-803e-e3b72c299e6d-1722840754240;]
   restartbackgroundanimations = true
   loopbackgroundanimations = true
