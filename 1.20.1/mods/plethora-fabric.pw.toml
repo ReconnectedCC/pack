@@ -3,7 +3,7 @@ filename = "plethora.jar"
 side = "both"
 
 [download]
-url = "https://pack.reconnected.cc/files/1.20.1/plethora.jar"
+url = "https://pack.reconnected.cc/files/1.20.1/Plethora-Fabric-1.12.0.jar"
 
 hash-format = "sha256"
-hash = "038287d63fa0cf2e1445e06b61262e0cdc62c262bef68139e019a8ec7fbcf6ec"
+hash = "4f5591a260f1bd145914346836c127f3a198333ac4812ff12c728bf2785af8e3"

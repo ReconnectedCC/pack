@@ -239,12 +239,17 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
-hash = "c68c9776c837d9fb8011eb47977cd77d95e061c4e561dfeb897e57980acd2657"
+hash = "329d5c1005c0affe621f5a347da78d1b55beb6784e7cd7c3b0bb372511f651ec"
 metafile = true
 
 [[files]]
 file = "mods/rcc-discord.pw.toml"
 hash = "3ce21c150c1c29cef779a4efc2a255eb5fca0525f6a625f433cb417ad144c5d4"
+metafile = true
+
+[[files]]
+file = "mods/rcc-protection.pw.toml"
+hash = "888229ee78e07cc1ceb38f645907dee984f6947e61f98c4e597d16c592eefedb"
 metafile = true
 
 [[files]]
