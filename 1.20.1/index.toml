@@ -113,13 +113,8 @@ hash = "85b19948067c6abf0e47fd1227d41297980413d51b5042813409c36284cc4426"
 metafile = true
 
 [[files]]
-file = "mods/ct-pronouns.pw.toml"
-hash = "6fe38b29d7ed413fd691647d200bf2a10db8770311aef88ccabd679617127792"
-metafile = true
-
-[[files]]
-file = "mods/dynmap.pw.toml"
-hash = "8786584968f7f22877792d69b7f60259c0e8f23a97394342899daf8df89101a6"
+file = "mods/dynmapforge.pw.toml"
+hash = "186a6b68ee9f7595602923295dc3896b00f6370938a323c5dd74c939ba95bed7"
 metafile = true
 
 [[files]]
@@ -245,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/rcc-discord.pw.toml"
 hash = "3ce21c150c1c29cef779a4efc2a255eb5fca0525f6a625f433cb417ad144c5d4"
+metafile = true
+
+[[files]]
+file = "mods/rcc-pronouns.pw.toml"
+hash = "7e5d82558cc96f897c3275f751ad0f2248c230e6382718b0546efaaa3c098181"
 metafile = true
 
 [[files]]
