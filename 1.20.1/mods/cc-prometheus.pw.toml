@@ -1,0 +1,9 @@
+name = "CC-Prometheus"
+filename = "cc-prometheus.jar"
+side = "server"
+
+[download]
+url = "https://pack.reconnected.cc/files/1.20.1/cc-prometheus-1.20.1-fabric-2.1.0.jar"
+
+hash-format = "sha256"
+hash = "74ee96ba8d81cec248e08768638477ff7b41268e55b9ec3e53bdb7ef8ca899b3"
