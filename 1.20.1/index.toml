@@ -88,6 +88,11 @@ hash = "61dace492b0e569459d21ef8ceac589739ea9d25e1d2c0634d561b8d9a2f8975"
 metafile = true
 
 [[files]]
+file = "mods/cc-prometheus.pw.toml"
+hash = "b52af167fbdd3378c9ccc03b6c2b7348bbb772e9b7bf247c79d52863149b1d2c"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "4bb621237a31c54f51c37d9a0660d176336a89888a931b294ee95d9c1a90856a"
 metafile = true
@@ -149,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "821ece98be0cbfdc31518245e07e1a174e84e699e6df3c85021914c96f2ecdea"
+hash = "fd28ed613c3f019627d305097f18c6be85b76fc96d2d719cd8d9f5b9420ca9eb"
 metafile = true
 
 [[files]]
@@ -175,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/konkrete.pw.toml"
 hash = "b0487d5437a636e61b353c70699994de1fd1aca903853d9366860cbbcfca5fd2"
+metafile = true
+
+[[files]]
+file = "mods/ledger.pw.toml"
+hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
 metafile = true
 
 [[files]]
@@ -219,7 +229,12 @@ metafile = true
 
 [[files]]
 file = "mods/nvidium.pw.toml"
-hash = "f2e41cbd3dd4370aa1bf2405db95e4f1301024b9554015e4d10b6ba5db66ce09"
+hash = "f5bcf7b77ab6b3a3606858212666f2bb17390e9ff963d144bff1a024904da031"
+metafile = true
+
+[[files]]
+file = "mods/oldsodium.pw.toml"
+hash = "addc4acf6b2a3437206953b1cb959cfab62e68428c52f621bcaab5db33282e13"
 metafile = true
 
 [[files]]
@@ -234,27 +249,27 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
-hash = "329d5c1005c0affe621f5a347da78d1b55beb6784e7cd7c3b0bb372511f651ec"
+hash = "5a0901830fb33fdd9c2e4373a2967f880af44589a95840a8ee02cf81b21ca577"
 metafile = true
 
 [[files]]
 file = "mods/rcc-discord.pw.toml"
-hash = "3ce21c150c1c29cef779a4efc2a255eb5fca0525f6a625f433cb417ad144c5d4"
+hash = "a45b7dd6d84c418c34790eb65e0033e0d562e82256b1c1138255f62087d56c96"
 metafile = true
 
 [[files]]
 file = "mods/rcc-pronouns.pw.toml"
-hash = "7e5d82558cc96f897c3275f751ad0f2248c230e6382718b0546efaaa3c098181"
+hash = "6d7435c6445e2d1c7d5afa96b9a7e918d1d5289bb6866e1c517551eeb181e7bc"
 metafile = true
 
 [[files]]
 file = "mods/rcc-protection.pw.toml"
-hash = "888229ee78e07cc1ceb38f645907dee984f6947e61f98c4e597d16c592eefedb"
+hash = "740e43b15ae4a7acd772e5970db467f4f0e1982e8cda2633bce0be1f5b961c49"
 metafile = true
 
 [[files]]
 file = "mods/rcc-server.pw.toml"
-hash = "1b92ed19ab0e0fb389513c623036affa8966e2dd223c9ea2fa978e3f805ece44"
+hash = "84eeb24af03e4851c9dc06a6d71ec9f2ff7e157295b49b2a223cfcabadb57d49"
 metafile = true
 
 [[files]]
@@ -269,12 +284,12 @@ metafile = true
 
 [[files]]
 file = "mods/sc-goodies.pw.toml"
-hash = "b1642268002e538018213eb0a5233a4352ef5e0c956698061f14a8261962e49c"
+hash = "2d1f826c14a41def68a946432fd898595e0fa0c6a4802665ab76e15ddb65af75"
 metafile = true
 
 [[files]]
 file = "mods/sc-peripherals.pw.toml"
-hash = "6111a5abe40258e5de11529b24a1b3db03d3fa0c9bb053c027192400061d9581"
+hash = "083de3314460c28b86e3a90430b43b6612f6fff7deb8fe9f024260d94f398bb6"
 metafile = true
 
 [[files]]
@@ -284,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "b040fd7cef3ac27cbc5b4be67f7b1d2611813dc1fad52c33c480977f861a96a6"
+hash = "b57edd172ff07774db11b4203dc9fe86aeae7c40e79048be4d79f78798c72e5d"
 metafile = true
 
 [[files]]
@@ -299,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/tab.pw.toml"
-hash = "0be3c1fbcc6caffa3f906be385807cbf5ff4e7232ca60809268275be274496d3"
+hash = "e29da8f67990cc0db7eed3d36f2ccbbf4f945f3af4aa0f9a925214397b06ca80"
 metafile = true
 
 [[files]]
@@ -319,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "5a1c2893e36167e199a63a4e755570dc3b4208abea38822c94c313e263cabf8d"
+hash = "4b68a6ea80a456b7fa9b5c9f9fc376aadfe3c01251d9678f4abefdb4eba77b67"
 metafile = true
 
 [[files]]

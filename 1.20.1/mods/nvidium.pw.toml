@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = false
+description = "You should use this with Old Sodium only, as it is incompatible with the latest version."
 
 [download]
 url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/J2fuM58R/nvidium-0.2.6-beta.jar"

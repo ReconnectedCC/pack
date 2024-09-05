@@ -1,5 +1,5 @@
-name = "ct-pronouns"
-filename = "ct-pronouns.jar"
+name = "rcc-pronouns"
+filename = "rcc-pronouns.jar"
 side = "server"
 
 [download]
