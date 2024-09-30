@@ -1,9 +1,13 @@
 name = "WorldEdit"
-filename = "worldedit.jar"
+filename = "worldedit-mod-7.2.15.jar"
 side = "server"
 
 [download]
-url = "https://pack.reconnected.cc/files/1.20.1/worldedit-mod-7.2.15.jar"
+hash-format = "sha1"
+hash = "9c52765ca56f917ef8cbafc20e9a4f45c346508f"
+mode = "metadata:curseforge"
 
-hash-format = "sha256"
-hash = "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+[update]
+[update.curseforge]
+file-id = 4586218
+project-id = 225608

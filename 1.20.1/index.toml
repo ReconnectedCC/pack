@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "4bb621237a31c54f51c37d9a0660d176336a89888a931b294ee95d9c1a90856a"
+hash = "79d7ddc34183fa37ea650a5528addb4b6938384a6f65987db0d4f5a916e2fa5a"
 metafile = true
 
 [[files]]
@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
+hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynmapforge.pw.toml"
-hash = "186a6b68ee9f7595602923295dc3896b00f6370938a323c5dd74c939ba95bed7"
+hash = "e7f3ebdea231c8159f3db2b2b195d4d9349a1c16aa3a88acd83767e149b24abb"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "508af0c05e63443f8179d0b5a34731735fc215872318b23e26df4487d260a36b"
+hash = "a0f68c2f7f4138a8abde7f8001fa92df3daa863490572b790ffd074a31903b02"
 metafile = true
 
 [[files]]
@@ -175,6 +175,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "904f0889694bb5d73960fea01928799cb8f93ffb52ffe9fd880f1ae61c9b5e08"
+metafile = true
+
+[[files]]
+file = "mods/kits.pw.toml"
+hash = "19e1447d363b01e6882c43be04aa8e7951d3c395437e87b9af2a2c9748c9896f"
 metafile = true
 
 [[files]]
@@ -274,12 +279,12 @@ metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "01451ed01eff741fc62ddcc19204c2c478ea9f2b80085092bd03eee700a0dcab"
+hash = "6621aa5f0cfb1b256268a41db8566b1c4bc08d07d82b78c1209970aedbb6953a"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "98004e0d7665cc5ca7e397712377a302b5390b904bef8d14b17790a3b354819e"
+hash = "708558f50ef468363ae32fe9318e4288bd341cf132b55518f79a2f6924d0b1ae"
 metafile = true
 
 [[files]]
@@ -295,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/seedguard.pw.toml"
 hash = "fe312fff892dfe0c56ecafa77c7ad656143c45d7777fd17a89d0b8eb220cc497"
+metafile = true
+
+[[files]]
+file = "mods/skiesannouncements.pw.toml"
+hash = "19d7be9e0a9e6312923a81cc82f56a4ad6df477a78672a7ac4851d750c6896f8"
 metafile = true
 
 [[files]]
@@ -314,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/tab.pw.toml"
-hash = "e29da8f67990cc0db7eed3d36f2ccbbf4f945f3af4aa0f9a925214397b06ca80"
+hash = "b0f3522efd480bd09a13c61b35c1104e912e83902ce51514dd6b4a22505143d7"
 metafile = true
 
 [[files]]
@@ -334,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "4b68a6ea80a456b7fa9b5c9f9fc376aadfe3c01251d9678f4abefdb4eba77b67"
+hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
 metafile = true
 
 [[files]]
