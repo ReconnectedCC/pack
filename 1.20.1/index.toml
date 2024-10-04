@@ -158,6 +158,11 @@ hash = "fd28ed613c3f019627d305097f18c6be85b76fc96d2d719cd8d9f5b9420ca9eb"
 metafile = true
 
 [[files]]
+file = "mods/fastrtp.pw.toml"
+hash = "346f99e9ce33d0563973b2d4a09c336eeca357350688258a296a823dc71cc6f2"
+metafile = true
+
+[[files]]
 file = "mods/figura.pw.toml"
 hash = "afa829a55fe3f4c7341ef24e52dda9f817bad793ca6ef9700ee9ca0893bc94cd"
 metafile = true
