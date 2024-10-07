@@ -4,7 +4,7 @@ side = "client"
 
 [option]
 optional = true
-default = false
+default = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/gofbpynL/indium-1.0.34%2Bmc1.20.1.jar"

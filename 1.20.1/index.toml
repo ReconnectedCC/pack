@@ -98,6 +98,16 @@ hash = "79d7ddc34183fa37ea650a5528addb4b6938384a6f65987db0d4f5a916e2fa5a"
 metafile = true
 
 [[files]]
+file = "mods/cerberus.pw.toml"
+hash = "4426bcdea973bd749efa4f413f31bacd06ce7473107caf8f44d74600a9dd9fab"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "fd77e006784011c82874203471f3d5a2af44aa817803344e252b2d9d35d12cdf"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "17c8ba2c2cedd4228f5fe0ca7b26b1193cf4bb36624a88bb24e1e1c41dbe90b8"
 metafile = true
@@ -110,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/commandaliases.pw.toml"
 hash = "a3ead8d96678b805077f764df1fe13c9a57f786c50c1da636d1d71b89514f629"
+metafile = true
+
+[[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "3930bbf837eb801e8e79f026532e954eee5f7b9f48949fc028ba41557df8eaa2"
 metafile = true
 
 [[files]]
@@ -173,13 +188,18 @@ hash = "c857c20cfc2aa9dd86011f024524d3362aed815f6d6f09bf047fc91415cf88b6"
 metafile = true
 
 [[files]]
+file = "mods/gotta-go-fast-fabric.pw.toml"
+hash = "d1f74577a5da437e4ef87953b624b088c96222a998efeea2376c4f4158554693"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
-hash = "81d33bcec252d5e8f1ee56b9ae28b5e8fb75e039163a2ebfa587fd5209dc93ce"
+hash = "5eb043b70885b8c6de7cc05e7434145d9ffc79c8a142572f3d9d38bcf7e4c9ab"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "904f0889694bb5d73960fea01928799cb8f93ffb52ffe9fd880f1ae61c9b5e08"
+hash = "fb4e650e35ee51774fcfa672741afe787995ed73ef35efdfe8bf2f9c9d0ba999"
 metafile = true
 
 [[files]]
@@ -259,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
-hash = "5a0901830fb33fdd9c2e4373a2967f880af44589a95840a8ee02cf81b21ca577"
+hash = "248a9545999c6236b608a3cb4375eb840c2efee9b4c598c48fea34a94b784540"
 metafile = true
 
 [[files]]
