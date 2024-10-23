@@ -1,20 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/fancymenu/assets/connecticut-144x144.icns"
-hash = "f39755e4a3125e7acd838512e66db267a3789ad06005d59fdf13d9dfda8ca27d"
-
-[[files]]
-file = "config/fancymenu/assets/connecticut-144x144.png"
-hash = "632514ee6a1e1d1bf1f560d44bda7f542428e4bf7467798a08ddd5173b56f515"
-
-[[files]]
-file = "config/fancymenu/assets/connecticut-16x16.png"
-hash = "910a8117c003ce511964d15bc800eefa69f50c664919f773514e01e4516ba5ef"
-
-[[files]]
-file = "config/fancymenu/assets/connecticut-32x32.png"
-hash = "b4c4fedcfccaf2fbe9b7eaf36e310dcec38430350aee347a32af14bf08cf8e60"
+file = "config/NoChatReports/NCR-Client.json"
+hash = "f1dfc2df130910eab2eaa739687424a6ede5c8e7b03708338b8127e01665eba3"
 
 [[files]]
 file = "config/fancymenu/assets/rcc-16x16.png"
@@ -38,7 +26,7 @@ hash = "db5016c0d681d4dbf797c55aad3d309d91cd2a0ab47a1beb8250936888e231e4"
 
 [[files]]
 file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+hash = "3196a182a2511f55b5e70478924ae670296a3c6ea3ec0dd75a0fdec180e658ae"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
@@ -46,7 +34,15 @@ hash = "6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327"
 
 [[files]]
 file = "config/fancymenu/customization/main_menu.txt"
-hash = "6abf66fd78b2c08783a02d4d83aa481e285927cb5a05741d6071d1c84ad83582"
+hash = "8bc3edd46c361b1133a06b5d956a68720daa51b9f888d06ee550d3a437f803a6"
+
+[[files]]
+file = "config/fancymenu/customization/rcc_proxyselector.txt"
+hash = "11d4c5001e7147a60681b5f581a1364ef071fbd4cb05b157393061005675e3f0"
+
+[[files]]
+file = "config/fancymenu/dragger_metas.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -58,7 +54,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "7c517de2d2ffe2cb715457c06d686c634b239469f2aa3fe1bd744e2260c6f9f3"
+hash = "8fd55de31d9cf55d2035efa3df6c9b0e8e122ef76727d9d8405278ff7f4eb983"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
@@ -70,7 +66,7 @@ hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
 
 [[files]]
 file = "config/fancymenu/user_variables.db"
-hash = "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823"
+hash = "730d952cfebc3ff430da39788af9a409a46697995325a0609347fecf80fba60d"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
@@ -104,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "fd77e006784011c82874203471f3d5a2af44aa817803344e252b2d9d35d12cdf"
+hash = "3811e560e5c08806170c284abb484baa91e44e9b649e8c18d12ba6563b4e0b0f"
 metafile = true
 
 [[files]]
@@ -149,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "a0f68c2f7f4138a8abde7f8001fa92df3daa863490572b790ffd074a31903b02"
+hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
 metafile = true
 
 [[files]]
@@ -164,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "f08086c797096ec7cea728330085f68f4d7f505938855a9b06f3c4c64a7bf6af"
+hash = "99c856c75baa4e3240d7cf30eb8e4c3410eedcc376fb4657b0cf140008fd9e5d"
 metafile = true
 
 [[files]]
@@ -175,11 +171,6 @@ metafile = true
 [[files]]
 file = "mods/fastrtp.pw.toml"
 hash = "346f99e9ce33d0563973b2d4a09c336eeca357350688258a296a823dc71cc6f2"
-metafile = true
-
-[[files]]
-file = "mods/figura.pw.toml"
-hash = "afa829a55fe3f4c7341ef24e52dda9f817bad793ca6ef9700ee9ca0893bc94cd"
 metafile = true
 
 [[files]]
@@ -195,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "5eb043b70885b8c6de7cc05e7434145d9ffc79c8a142572f3d9d38bcf7e4c9ab"
+metafile = true
+
+[[files]]
+file = "mods/invview.pw.toml"
+hash = "83faa3592a9579a62918edd2c51f926c816f3432bd4ec2d80f7a3cff0b44eb91"
 metafile = true
 
 [[files]]
@@ -283,13 +279,18 @@ hash = "248a9545999c6236b608a3cb4375eb840c2efee9b4c598c48fea34a94b784540"
 metafile = true
 
 [[files]]
+file = "mods/rcc-client.pw.toml"
+hash = "8bc112be5981752afdeddfde7b82bf87016602ce7e18e203c7c932fc3f7ae578"
+metafile = true
+
+[[files]]
 file = "mods/rcc-discord.pw.toml"
-hash = "a45b7dd6d84c418c34790eb65e0033e0d562e82256b1c1138255f62087d56c96"
+hash = "0794a80c28876c999e30d372ca10d830ce547c087baeb5accc641e8f84479dd5"
 metafile = true
 
 [[files]]
 file = "mods/rcc-pronouns.pw.toml"
-hash = "6d7435c6445e2d1c7d5afa96b9a7e918d1d5289bb6866e1c517551eeb181e7bc"
+hash = "04d8174319ef9082af896d378cbfded701e65e7419e5b85c1c222cb75665d010"
 metafile = true
 
 [[files]]
@@ -299,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-server.pw.toml"
-hash = "84eeb24af03e4851c9dc06a6d71ec9f2ff7e157295b49b2a223cfcabadb57d49"
+hash = "68bad26fdf4b48505968d801c742eb136f87e3ab57a190ca16f55a0f0a0ba295"
 metafile = true
 
 [[files]]
@@ -328,6 +329,11 @@ hash = "fe312fff892dfe0c56ecafa77c7ad656143c45d7777fd17a89d0b8eb220cc497"
 metafile = true
 
 [[files]]
+file = "mods/server-chat-heads.pw.toml"
+hash = "9142383be144ebed16e03d399fc722fc198779383401bb1d25092ae8d3a73784"
+metafile = true
+
+[[files]]
 file = "mods/skiesannouncements.pw.toml"
 hash = "19d7be9e0a9e6312923a81cc82f56a4ad6df477a78672a7ac4851d750c6896f8"
 metafile = true
@@ -343,13 +349,23 @@ hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
 metafile = true
 
 [[files]]
+file = "mods/spyglass-astronomy.pw.toml"
+hash = "cff8c768622ba37cf9ae47fa1ba41f0f06fa789d50372e2d4b63dfb29bbf4a56"
+metafile = true
+
+[[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
 metafile = true
 
 [[files]]
 file = "mods/tab.pw.toml"
-hash = "b0f3522efd480bd09a13c61b35c1104e912e83902ce51514dd6b4a22505143d7"
+hash = "7d9590d9598223c090688e840846d03ae67368e100eff67fa196c4a0b4bacdd7"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "e7d7d775847e0dba0303056d4ad11ffda536b7851b443e5d5799afb23ecefa5f"
 metafile = true
 
 [[files]]

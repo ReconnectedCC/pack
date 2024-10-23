@@ -1,9 +1,9 @@
 name = "rcc-server"
-filename = "rcc-server.jar"
+filename = "rcc-server-1.11.0.jar"
 side = "server"
 
 [download]
-url = "https://pack.reconnected.cc/files/1.20.1/rcc-server-1.7.0.jar"
+url = "https://pack.reconnected.cc/files/1.20.1/rcc-server-1.11.0.jar"
 
 hash-format = "sha256"
-hash = "374521dd918cfb7c386de18ef2459ef7445ad2fbbc6af55af3f99a607254ed61"
+hash = "8f042acaa600a29bd931b1db4b167ed1e3e713185b3e6cc45a217c27662ee763"

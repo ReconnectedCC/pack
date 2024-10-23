@@ -1,15 +1,15 @@
 name = "TAB"
-filename = "TAB.v4.1.8.jar"
+filename = "TAB.v5.0.0.jar"
 side = "server"
 
 [download]
-url = "https://github.com/NEZNAMY/TAB/releases/download/4.1.8/TAB.v4.1.8.jar"
+url = "https://github.com/NEZNAMY/TAB/releases/download/5.0.0/TAB.v5.0.0.jar"
 hash-format = "sha256"
-hash = "baacd0989e0f1182ddfb9ef6f3563e710a05ff61475cbcbf3162970ebdb9438b"
+hash = "bf0f06c139a590e9df7f3ce7363a78d6b5562f47177ff9166214060dc8eea245"
 
 [update]
 [update.github]
 branch = "master"
 regex = "^.+(?<!-api|-dev|-dev-preshadow|-sources)\\.jar$"
 slug = "NEZNAMY/TAB"
-tag = "4.1.8"
+tag = "5.0.0"
