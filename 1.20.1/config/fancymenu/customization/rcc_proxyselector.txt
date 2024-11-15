@@ -1,0 +1,116 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = rcc_proxyselector
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1729499967050
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:b61734af-2490-4da1-838b-17752a9fb1d1-1729499805044] = [groups:][instances:]
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  button_element_executable_block_identifier = 7daa5d60-b16c-4c02-ac17-f227cfaca755-1729151965486
+  [executable_action_instance:7296529b-9e32-48ea-8cc3-8a379353f6a2-1729151984008][action_type:set_variable] = selected_proxy:play.reconnected.cc
+  [executable_action_instance:c1cc7490-8d71-47ca-873f-90f5ba8ed43e-1729498418641][action_type:set_variable] = selected_proxy_friendly:Europe
+  [executable_action_instance:07e1bc19-8c51-4158-ab06-691cf6b0a1fd-1729153162148][action_type:closegui] = 
+  [executable_block:7daa5d60-b16c-4c02-ac17-f227cfaca755-1729151965486][type:generic] = [executables:7296529b-9e32-48ea-8cc3-8a379353f6a2-1729151984008;c1cc7490-8d71-47ca-873f-90f5ba8ed43e-1729498418641;07e1bc19-8c51-4158-ab06-691cf6b0a1fd-1729153162148;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  hoverlabel = Helsinki, Finland ({"placeholder":"serverping","values":{"ip":"play.reconnected.cc:25565"}}ms)
+  label = Europe ({"placeholder":"serverping","values":{"ip":"play.reconnected.cc:25565"}}ms)
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 3a18165f-8a0e-4554-a453-e16e9e022fdb-1729151965486
+  [loading_requirement_container_meta:3a18165f-8a0e-4554-a453-e16e9e022fdb-1729151965486] = [groups:group_1729152466997;][instances:]
+  [loading_requirement_group:group_1729152466997] = [group_mode:and]
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][group:group_1729152466997][req_id:e0a0630d-8683-4079-bf27-007a387b02af-1729152472862] = xi.reconnected.cc
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][group:group_1729152466997][req_id:ebbb6d80-97d7-4dab-a107-300d071c60de-1729152498193] = :play.reconnected.cc
+  element_type = custom_button
+  instance_identifier = b46104bd-87a3-40b7-b9e5-520fe5feab0f-1729151965486
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 2560
+  auto_sizing_base_screen_height = 1496
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -82
+  y = -32
+  width = 163
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = e2e63d24-90a9-446f-a8ab-2289b58859f1-1729151965486
+  [loading_requirement_container_meta:e2e63d24-90a9-446f-a8ab-2289b58859f1-1729151965486] = [groups:][instances:]
+}
+
+element {
+  button_element_executable_block_identifier = f722e2cf-8cd5-4edf-b8f2-78adacd4009e-1729152277154
+  [executable_action_instance:70b9d7ef-05f9-42db-a8f3-9ce42c9fec03-1729153223663][action_type:set_variable] = selected_proxy:us-ky.reconnected.cc
+  [executable_action_instance:acdccd19-dd76-41a0-8663-ec16ba8f5859-1729498465836][action_type:set_variable] = selected_proxy_friendly:America
+  [executable_action_instance:b783599c-eaf6-4fdb-9910-a55ca1fa2c6b-1729153271131][action_type:closegui] = 
+  [executable_block:f722e2cf-8cd5-4edf-b8f2-78adacd4009e-1729152277154][type:generic] = [executables:70b9d7ef-05f9-42db-a8f3-9ce42c9fec03-1729153223663;acdccd19-dd76-41a0-8663-ec16ba8f5859-1729498465836;b783599c-eaf6-4fdb-9910-a55ca1fa2c6b-1729153271131;]
+  restartbackgroundanimations = true
+  loopbackgroundanimations = true
+  nine_slice_custom_background = false
+  nine_slice_border_x = 5
+  nine_slice_border_y = 5
+  hoverlabel = Hopkinsville, Kentucky ({"placeholder":"serverping","values":{"ip":"us-ky.reconnected.cc:25565"}}ms)
+  label = America ({"placeholder":"serverping","values":{"ip":"us-ky.reconnected.cc:25565"}}ms)
+  navigatable = true
+  widget_active_state_requirement_container_identifier = 17e2389f-e085-40a3-b20b-a1e9d6e3257f-1729152277154
+  [loading_requirement_container_meta:17e2389f-e085-40a3-b20b-a1e9d6e3257f-1729152277154] = [groups:group_1729153700699;][instances:]
+  [loading_requirement_group:group_1729153700699] = [group_mode:and]
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][group:group_1729153700699][req_id:a1e97a95-881e-492e-9b5e-9b5fb19c2c3b-1729153703375] = us-ky.reconnected.cc
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][group:group_1729153700699][req_id:ae1e6a48-61e8-4230-9e0a-21f65aca6b62-1729153733178] = :us-ky.reconnected.cc
+  element_type = custom_button
+  instance_identifier = eb05473c-0551-47c5-8175-280396d9127f-1729152277154
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 2560
+  auto_sizing_base_screen_height = 1496
+  sticky_anchor = false
+  anchor_point = mid-centered
+  x = -82
+  y = 13
+  width = 163
+  height = 20
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = 5f5559e7-615d-4a9b-a682-259802547bea-1729152277154
+  [loading_requirement_container_meta:5f5559e7-615d-4a9b-a682-259802547bea-1729152277154] = [groups:][instances:]
+}
+

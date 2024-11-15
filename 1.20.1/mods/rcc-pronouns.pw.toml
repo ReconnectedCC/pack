@@ -1,9 +1,9 @@
 name = "rcc-pronouns"
-filename = "rcc-pronouns-1.2.1.jar"
+filename = "rcc-pronouns-1.2.2.jar"
 side = "server"
 
 [download]
-url = "https://pack.reconnected.cc/files/1.20.1/rcc-pronouns-1.2.1.jar"
+url = "https://pack.reconnected.cc/files/1.20.1/rcc-pronouns-1.2.2.jar"
 
 hash-format = "sha256"
-hash = "c244d112c4188f68785687ec7c25adeeab5ed614f8e673d6508f0055c5750220"
+hash = "af32397522d81eb1565b73d643044d22e2276bec948fe74d4fe544adb1ecb85e"

@@ -1,0 +1,16 @@
+name = "Spyglass Astronomy"
+filename = "spyglass_astronomy-1.0.15-mc1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/EdBSdqge/versions/aHHKkRuW/spyglass_astronomy-1.0.15-mc1.20.1.jar"
+hash-format = "sha512"
+hash = "842ee2b8115a721cabc1eabaeed7f2bd0eacbd6e3c8405a95d945448cd8e7fbd34e8cb1e33f454c512dd20a3b19efb0278164f3ebf952e7d558ccac7b6f697a5"
+
+[update]
+[update.modrinth]
+mod-id = "EdBSdqge"
+version = "aHHKkRuW"
+
+[option]
+optional = true

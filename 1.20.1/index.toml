@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "4426bcdea973bd749efa4f413f31bacd06ce7473107caf8f44d74600a9dd9fab"
+hash = "9607f2d8fd163cb6a952c386bcb07e47b4e272e6106a251fc682a99e4defcf1b"
 metafile = true
 
 [[files]]
@@ -114,11 +114,6 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
-file = "mods/commandaliases.pw.toml"
-hash = "a3ead8d96678b805077f764df1fe13c9a57f786c50c1da636d1d71b89514f629"
-metafile = true
-
-[[files]]
 file = "mods/convenient-mobgriefing.pw.toml"
 hash = "3930bbf837eb801e8e79f026532e954eee5f7b9f48949fc028ba41557df8eaa2"
 metafile = true
@@ -131,11 +126,6 @@ metafile = true
 [[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "e7f3ebdea231c8159f3db2b2b195d4d9349a1c16aa3a88acd83767e149b24abb"
-metafile = true
-
-[[files]]
-file = "mods/essential-commands.pw.toml"
-hash = "c454a8e8462d84f82683b3d567ffcfdceba052fc70491486ae8e8484f9eac988"
 metafile = true
 
 [[files]]
@@ -285,12 +275,12 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-discord.pw.toml"
-hash = "0794a80c28876c999e30d372ca10d830ce547c087baeb5accc641e8f84479dd5"
+hash = "4951a5328e69a0594a933ad4f3379047cc9ae79b4dd7e0212b93ffee5b398519"
 metafile = true
 
 [[files]]
 file = "mods/rcc-pronouns.pw.toml"
-hash = "04d8174319ef9082af896d378cbfded701e65e7419e5b85c1c222cb75665d010"
+hash = "72e54c95d4fe20c220288d41dd592cc70fb93e5f113805d0ffdacfefa361e444"
 metafile = true
 
 [[files]]
@@ -300,17 +290,17 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-server.pw.toml"
-hash = "68bad26fdf4b48505968d801c742eb136f87e3ab57a190ca16f55a0f0a0ba295"
+hash = "b8b922b76ac578fe27ee16938b584e7c8e8babbcab4d7c223e1ffe0fe8048cfd"
 metafile = true
 
 [[files]]
 file = "mods/rei.pw.toml"
-hash = "6621aa5f0cfb1b256268a41db8566b1c4bc08d07d82b78c1209970aedbb6953a"
+hash = "657ff0025d408f1021309ce5c759821d1f48e397811cc0da6f0b0400827896fa"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "708558f50ef468363ae32fe9318e4288bd341cf132b55518f79a2f6924d0b1ae"
+hash = "47ce46edbf2d6f90a938c755753dd63a2034e33a31092f1cb9e585e61f04ae2c"
 metafile = true
 
 [[files]]
@@ -350,17 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/spyglass-astronomy.pw.toml"
-hash = "cff8c768622ba37cf9ae47fa1ba41f0f06fa789d50372e2d4b63dfb29bbf4a56"
-metafile = true
-
-[[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "18cb5a5474406d7af310b53c93a983ffa608b03213f9d325e81dff3239566eb1"
-metafile = true
-
-[[files]]
-file = "mods/tab.pw.toml"
-hash = "7d9590d9598223c090688e840846d03ae67368e100eff67fa196c4a0b4bacdd7"
+hash = "cd56396a8af1084362b129040b1ec8d6ea827b0bf28436547ef4bedfa8a22ce4"
 metafile = true
 
 [[files]]

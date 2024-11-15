@@ -1,9 +1,8 @@
 name = "rcc-discord"
-filename = "rcc-discord-1.7.6.jar"
+filename = "rcc-discord-1.7.8.jar"
 side = "server"
 
 [download]
-url = "https://pack.reconnected.cc/files/1.20.1/rcc-discord-1.7.6.jar"
-
+url = "https://pack.reconnected.cc/files/1.20.1/rcc-discord-1.7.8.jar"
 hash-format = "sha256"
-hash = "2a701d88f7f22e5ae0be85067ff530ce50c660ca6268b4cdaafd624ccc51cb19"
+hash = "ba6d5275b6ace1644e878a71100b9c2cb69b77be53118752442eed4992b2bbd7"
