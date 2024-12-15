@@ -1,0 +1,8 @@
+name = "rcc-library"
+filename = "rcc-library-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://pack.reconnected.cc/files/1.20.1/rcc-library-1.0.0.jar"
+hash-format = "sha256"
+hash = "ee2d9a746cc0232483676ebb911ec36deb3d1f337ae9c1456dde16b4e8c3ebf4"

@@ -90,17 +90,17 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "79d7ddc34183fa37ea650a5528addb4b6938384a6f65987db0d4f5a916e2fa5a"
+hash = "61fe0368e62d8926d1c7429532f74d22afc3e7044bee9385452095bd492976ef"
 metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "9607f2d8fd163cb6a952c386bcb07e47b4e272e6106a251fc682a99e4defcf1b"
+hash = "87c35a15b6cb2814178813462a76a1aedfbd13d116c8cdb766c0b97efdb71d9a"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "3811e560e5c08806170c284abb484baa91e44e9b649e8c18d12ba6563b4e0b0f"
+hash = "732bc85d460b6399677e5b768318a0d6cc02822b9d005015ec4e16d9730e260a"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "86698b1faa9bf449eab492509239372302311092104be467108d7e05127e91f1"
+hash = "ebd92e07834dae22ebb7340a1112ac20d79869ec12ef5107938f564dee2661d2"
 metafile = true
 
 [[files]]
@@ -161,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/fastrtp.pw.toml"
 hash = "346f99e9ce33d0563973b2d4a09c336eeca357350688258a296a823dc71cc6f2"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+hash = "4d3de174f8914ab199931bb4217ea32370046fc2463c8c84b6cbdf4b710a744c"
 metafile = true
 
 [[files]]
@@ -206,6 +211,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "c036fba25fdb9a9206b3cdf0cc94d3f1877c63fbf47ce7199bd09358c6289dea"
 metafile = true
 
 [[files]]
@@ -265,22 +275,27 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
-hash = "248a9545999c6236b608a3cb4375eb840c2efee9b4c598c48fea34a94b784540"
+hash = "5806d11949a3817477063f2594364f32f1f9890d70f5972b6c6f6970fc3e5955"
 metafile = true
 
 [[files]]
 file = "mods/rcc-client.pw.toml"
-hash = "8bc112be5981752afdeddfde7b82bf87016602ce7e18e203c7c932fc3f7ae578"
+hash = "e2f83648f83ac5fc0936799acf9b983b84a9ee04ba4ca97297ede72eb1ab9a4f"
 metafile = true
 
 [[files]]
 file = "mods/rcc-discord.pw.toml"
-hash = "4951a5328e69a0594a933ad4f3379047cc9ae79b4dd7e0212b93ffee5b398519"
+hash = "712c0f20ce748ec268a4a774bf13eedc78092570c4f32c1c70ba74273d59440c"
+metafile = true
+
+[[files]]
+file = "mods/rcc-library.pw.toml"
+hash = "f8f8cc19e2bbb4f33ce88ee07959e4559e5f0347699693f0a57eecd3fff5289a"
 metafile = true
 
 [[files]]
 file = "mods/rcc-pronouns.pw.toml"
-hash = "72e54c95d4fe20c220288d41dd592cc70fb93e5f113805d0ffdacfefa361e444"
+hash = "64d42a3bcabe51449606f435badf060ac3311fabc00ea7f8ba3d38c6cbd42457"
 metafile = true
 
 [[files]]
@@ -289,8 +304,8 @@ hash = "740e43b15ae4a7acd772e5970db467f4f0e1982e8cda2633bce0be1f5b961c49"
 metafile = true
 
 [[files]]
-file = "mods/rcc-server.pw.toml"
-hash = "b8b922b76ac578fe27ee16938b584e7c8e8babbcab4d7c223e1ffe0fe8048cfd"
+file = "mods/rcc-webapi.pw.toml"
+hash = "93851764bb04ce123e5a420b80eb16f117e4a16260179a28db8a66d603b7aed7"
 metafile = true
 
 [[files]]
@@ -334,6 +349,11 @@ hash = "b57edd172ff07774db11b4203dc9fe86aeae7c40e79048be4d79f78798c72e5d"
 metafile = true
 
 [[files]]
+file = "mods/solstice-essentials.pw.toml"
+hash = "104519e5ef15daf9355c500d1b001081c676f83a40beac7ab470771feee34d70"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "5f2efbb6362b829766025b8714593308f89fd46b05a36e302c760227e6611304"
 metafile = true
@@ -345,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeoutout.pw.toml"
-hash = "e7d7d775847e0dba0303056d4ad11ffda536b7851b443e5d5799afb23ecefa5f"
+hash = "d8eb74d6b0d65bb14ac674be1bb5f38517e39848cafbd35b5d33aaea8edbcc51"
 metafile = true
 
 [[files]]

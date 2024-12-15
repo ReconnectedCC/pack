@@ -1,0 +1,8 @@
+name = "rcc-webapi"
+filename = "rcc-webapi-1.0-SNAPSHOT.jar"
+side = "server"
+
+[download]
+url = "https://pack.reconnected.cc/files/1.20.1/rcc-webapi-1.0-SNAPSHOT.jar"
+hash-format = "sha256"
+hash = "96873009908f0f97b7b7530a1fd449202fb434465589c7ce284124dd2ec62402"
