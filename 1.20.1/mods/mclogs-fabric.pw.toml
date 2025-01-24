@@ -1,0 +1,12 @@
+name = "mclogs-fabric"
+filename = "mclogs-fabric-1.5.0-1.20.jar"
+side = "both"
+
+[download]
+url = "https://github.com/aternosorg/mclogs-fabric/releases/download/1.5.0-1.20/mclogs-fabric-1.5.0-1.20.jar"
+hash-format = "sha256"
+hash = "60593f18cf98d16a6850a66ca2704117ebbe70fb4196506b5febab4b062a3618"
+
+[option]
+optional = true
+default = true

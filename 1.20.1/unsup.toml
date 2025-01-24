@@ -1,0 +1,18 @@
+[flavor_groups.inventory_mod]
+name = "Inventory"
+description = "Which inventory helper would you like to use?"
+side = "client"
+
+[[flavor_groups.inventory_mod.choices]]
+id = "emi"
+name = "EMI"
+
+[[flavor_groups.inventory_mod.choices]]
+id = "rei"
+name = "Roughly Enough Items"
+
+[metafile.emi]
+flavors = "emi"
+
+[metafile.rei]
+flavors = "rei"
