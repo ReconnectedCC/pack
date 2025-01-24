@@ -1,18 +1,14 @@
 name = "Nvidium"
-filename = "nvidium-0.2.6-beta.jar"
+filename = "nvidium-0.3.0+1.20.1.jar"
 side = "client"
 
 [option]
 optional = true
 default = false
-description = "You should use this with Old Sodium only, as it is incompatible with the latest version."
+description = "You should use this with NVIDIA Cards only!"
 
 [download]
-url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/J2fuM58R/nvidium-0.2.6-beta.jar"
-hash-format = "sha1"
-hash = "ce0c8504cfc397b53227119230e3ae5fdf851d42"
+url = "https://pack.reconnected.cc/files/1.20.1/nvidium-0.3.0+1.20.1.jar"
 
-[update]
-[update.modrinth]
-mod-id = "SfMw2IZN"
-version = "J2fuM58R"
+hash-format = "sha256"
+hash = "7f6ce86215673905327c1c7ec2cc15fb4b579e6dee5ea6cff75708fb18f7605d"

@@ -2,6 +2,10 @@ name = "Roughly Enough Items (REI)"
 filename = "RoughlyEnoughItems-12.1.785-fabric.jar"
 side = "client"
 
+[option]
+optional = true
+default = false
+
 [download]
 url = "https://cdn.modrinth.com/data/nfn13YXA/versions/nYcMSS03/RoughlyEnoughItems-12.1.785-fabric.jar"
 hash-format = "sha512"

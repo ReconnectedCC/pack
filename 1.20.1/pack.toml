@@ -1,12 +1,16 @@
-name = "connecticut"
+name = "ReconnectedCC"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2b60aa61613a7e190c6ebbb1d70ba3f17d9cd689cf7a400d5647558015a56229"
+hash = "e3f4752d08491f1642fbb641b6bc0d8453be89661f8e29a2f3b85553567023f7"
 
 [versions]
 fabric = "0.16.9"
 minecraft = "1.20.1"
+unsup = "0.2.3"
+
+[options]
+acceptable-game-versions = ["1.20"]
