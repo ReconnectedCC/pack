@@ -104,12 +104,12 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "38e60ed5a080c7d2726d9b2297e24f118c03a1e541224a2890621873b25df45b"
+hash = "edb66447193645761fdfbd7ce8f820a61962650113c49309d7c6edab689d5dc4"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "732bc85d460b6399677e5b768318a0d6cc02822b9d005015ec4e16d9730e260a"
+hash = "46203bc91f628f59d1951f38277b56cd8599b84feabf1c92b191dde256ed8883"
 metafile = true
 
 [[files]]
@@ -279,12 +279,12 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "ee92b11e84dc710bdc0c026723ad4a4113c7777a64ea6cbf7ee118e2e0be077c"
+hash = "ffa669a536c425213f5c94fce26a16aa26b62c04dbe17c808e740ddb69f45750"
 metafile = true
 
 [[files]]
 file = "mods/rcc-client.pw.toml"
-hash = "e2f83648f83ac5fc0936799acf9b983b84a9ee04ba4ca97297ede72eb1ab9a4f"
+hash = "6a83d54a5c5e415c09b0ec008fade991dee2fcb52d3ec97bae42cee2d8e98d19"
 metafile = true
 
 [[files]]
@@ -299,7 +299,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-protection.pw.toml"
-hash = "ec2fa9a2ab47ba7d422adbd787d0e6feeb874de2a80cb89c06fc6e9ad3181901"
+hash = "de62c3495ee7bda118c225709304196d00adb9fcd1377b0ababc45b55a31bfcd"
 metafile = true
 
 [[files]]
