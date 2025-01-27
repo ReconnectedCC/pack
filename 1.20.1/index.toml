@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "ac32ac4641c813b7b266d545e8e7e5bcd1081eee6b1932cc34a67f85c94d12a0"
+hash = "c9d288dff7589729af20dee98017e35eaf980b92d973ac4a7af691b340a8100b"
 metafile = true
 
 [[files]]
@@ -340,6 +340,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "7a0c254ad84eb5e75aad746271748ca42b4df51a27cc15cb751cf49974b672cc"
+metafile = true
+
+[[files]]
+file = "mods/solstice-essentials.pw.toml"
+hash = "662b3adbac81d4636254b37425c2222e2ca31216d9304d922ec4c149ba6d0558"
 metafile = true
 
 [[files]]
