@@ -379,7 +379,7 @@ metafile = true
 
 [[files]]
 file = "mods/vivecraft-server.pw.toml"
-hash = "b9b5cd6ab48e4428e00a7cec1cf59b429e1db775c2cbdac16d9d2e06ab145631"
+hash = "512dfe45627c76432c2c296fb2863d70997ac0ac5b2f45dd1be6b9285fc32233"
 metafile = true
 
 [[files]]
