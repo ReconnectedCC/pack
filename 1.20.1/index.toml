@@ -73,6 +73,11 @@ file = "config/switchcraft/sc-peripherals-client.toml"
 hash = "f62957536df46e1174969aef8b15764f501eec1a7a73636fa398e4a84cb57e0c"
 
 [[files]]
+file = "mods/adaptiveview.pw.toml"
+hash = "f9f0f04f2bf98a7c43c05b8d8b534429549ede6a70458724378915c7242f7d3d"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
