@@ -1,9 +1,9 @@
 name = "rcc-protection"
-filename = "rcc-protection-1.4.0.jar"
+filename = "rcc-protection-1.5.0.jar"
 side = "server"
 
 [download]
-url = "https://pack.reconnected.cc/files/1.20.1/rcc-protection-1.4.0.jar"
+url = "https://pack.reconnected.cc/files/1.20.1/rcc-protection-1.5.0.jar"
 
 hash-format = "sha256"
-hash = "1c7d5382b2a50eff6d7c1fd841e3a2b303163200df5d036401172880cb2a3acb"
+hash = "931a4137afb772c39a6dc11c0eeb2e40849e09a2777df1c4bb29da9a8eabefaa"

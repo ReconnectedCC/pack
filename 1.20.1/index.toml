@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "c9d288dff7589729af20dee98017e35eaf980b92d973ac4a7af691b340a8100b"
+hash = "c7e08fa164fe4b2ebc5891542b58db6f14464f0b1ef2447a7d29ccde2d9a7cd1"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-protection.pw.toml"
-hash = "de62c3495ee7bda118c225709304196d00adb9fcd1377b0ababc45b55a31bfcd"
+hash = "fc597decffc826d6592fcaee8c69635af4c0a30f43a8ca173a07faa98f604d2f"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/solstice-essentials.pw.toml"
-hash = "662b3adbac81d4636254b37425c2222e2ca31216d9304d922ec4c149ba6d0558"
+hash = "618925e4c80aa226ba9bf06a9e4e24ed05d23973e52b861a28b5d6cbbd920c51"
 metafile = true
 
 [[files]]
