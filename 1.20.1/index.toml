@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "c7e08fa164fe4b2ebc5891542b58db6f14464f0b1ef2447a7d29ccde2d9a7cd1"
+hash = "31b124034fdf477fb8662ee1a0de48cde035ad57bf3c089da7439b2a15ba945c"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-protection.pw.toml"
-hash = "fc597decffc826d6592fcaee8c69635af4c0a30f43a8ca173a07faa98f604d2f"
+hash = "8bc8ff3c24931e16c1c3c43d4c4228b59afa5f701951284887388744b4f89f1d"
 metafile = true
 
 [[files]]
