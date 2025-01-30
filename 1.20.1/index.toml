@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "31b124034fdf477fb8662ee1a0de48cde035ad57bf3c089da7439b2a15ba945c"
+hash = "b640946767b627ca7bfe93c7a13fb65655a775ed9e44917ff287a7937645d8d2"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/flan.pw.toml"
-hash = "53874f4e9779266e36fb90ce09a0daa073f19b34e82ce0db2568b33ffc41211c"
+hash = "10e7806971873cb2c1d6f8279e650c37d7c30c2d861abba706c2ad11a0e5627d"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-protection.pw.toml"
-hash = "8bc8ff3c24931e16c1c3c43d4c4228b59afa5f701951284887388744b4f89f1d"
+hash = "2bf48f88090b9f742081084f039f6bbae099a9259a05ad81614ec24d73bcd02e"
 metafile = true
 
 [[files]]
@@ -344,7 +344,7 @@ metafile = true
 
 [[files]]
 file = "mods/solstice-essentials.pw.toml"
-hash = "618925e4c80aa226ba9bf06a9e4e24ed05d23973e52b861a28b5d6cbbd920c51"
+hash = "541d9f55ec87b4732465230187d2d249cc23c20f9b2985cac4294f823b053e4f"
 metafile = true
 
 [[files]]
