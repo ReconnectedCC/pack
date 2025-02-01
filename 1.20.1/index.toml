@@ -73,6 +73,10 @@ file = "config/switchcraft/sc-peripherals-client.toml"
 hash = "f62957536df46e1174969aef8b15764f501eec1a7a73636fa398e4a84cb57e0c"
 
 [[files]]
+file = "config/switchcraft/sc-peripherals.toml"
+hash = "cda5e1675227d80fcac09e18e3635fd3b5e4db4bf679e17a04520b416d8e6d4f"
+
+[[files]]
 file = "mods/adaptiveview.pw.toml"
 hash = "f9f0f04f2bf98a7c43c05b8d8b534429549ede6a70458724378915c7242f7d3d"
 metafile = true
@@ -104,12 +108,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "6c1d3514f4f028be06f38c08c5c1d3e77484e9b327a461f5a4b7cf4a91dcf116"
+hash = "c1079c786922de32eb7603ae24653090beccae44286f96790bf7729fd5f33764"
 metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "bab0746d91a2db74695a9c3ae03002b046bd340a86f2657710fda09855bc9157"
+hash = "e06c1ee5f7251566ab810746ecaed35f08c32f31ac1792faaf98326ef9b51959"
 metafile = true
 
 [[files]]
@@ -279,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
-hash = "5806d11949a3817477063f2594364f32f1f9890d70f5972b6c6f6970fc3e5955"
+hash = "f299bce0a07d37682a1fbbde029b8210e6f94a222bbc5ce4385536b583e72271"
 metafile = true
 
 [[files]]
@@ -304,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-protection.pw.toml"
-hash = "2bf48f88090b9f742081084f039f6bbae099a9259a05ad81614ec24d73bcd02e"
+hash = "a8a3c4428d515b0c53c3f165855e6bb9a913fe477487eba270c07ddc1fefa097"
 metafile = true
 
 [[files]]
