@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "dc4f44e85d0ccc486e94fbdf08ddfcb53c5e34c61cc3d389811fb15abfc5149b"
+hash = "80554e095ca177b0c91baf6592ff168d8200cb88ff5f5c1ee6ae9d40b0ae50ab"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-client.pw.toml"
-hash = "6a83d54a5c5e415c09b0ec008fade991dee2fcb52d3ec97bae42cee2d8e98d19"
+hash = "d084abc40b845870b2eeba5ed939b956822fb7f9e4f446295765a0e9f9c72098"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-library.pw.toml"
-hash = "f8f8cc19e2bbb4f33ce88ee07959e4559e5f0347699693f0a57eecd3fff5289a"
+hash = "e72c96cd35c4fc64f66bc8806aa3c306ec34df60a6f451102ff86d13537feb94"
 metafile = true
 
 [[files]]
