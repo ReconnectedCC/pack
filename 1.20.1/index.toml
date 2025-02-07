@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/asahi.pw.toml"
-hash = "a3b4e961b4570617046afc27d51efe8cbc83071eb06b49d3ac45938716ca727b"
+hash = "4e53e1563f5950a8c67802302e81bd19001fabaee3a27fa39723482a0d838c50"
 metafile = true
 
 [[files]]
@@ -113,12 +113,12 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "80554e095ca177b0c91baf6592ff168d8200cb88ff5f5c1ee6ae9d40b0ae50ab"
+hash = "2e7b3b2b81c20cf341f4062cda291055f30a0a9c1fb9088cb918786a00d6ec24"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "46203bc91f628f59d1951f38277b56cd8599b84feabf1c92b191dde256ed8883"
+hash = "d65b71835b0cf0aac6af2e1da344618f31b5e04e03f3126ac76c90536dca68b4"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/flan.pw.toml"
-hash = "10e7806971873cb2c1d6f8279e650c37d7c30c2d861abba706c2ad11a0e5627d"
+hash = "bbc7ffa030fadcd11046ecd3ac9de4d23920ae8ad10f58e561f088b9e96f179f"
 metafile = true
 
 [[files]]

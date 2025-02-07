@@ -1,13 +1,13 @@
 name = "Chat Heads"
-filename = "chat_heads-0.13.11-fabric-1.20.jar"
+filename = "chat_heads-0.13.12-fabric-1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/AGeagAPk/chat_heads-0.13.11-fabric-1.20.jar"
+url = "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/JPQQJRAL/chat_heads-0.13.12-fabric-1.20.jar"
 hash-format = "sha512"
-hash = "a49006b2e42b4a38e648a764586030d3a2b9984b7c7fb04caa6ef8b48220335c7caa2efb576474650b6e71f88f28742a48697404f7ea8961770d9eb2f1f330d2"
+hash = "bb0960384ea537feb8e2702c96b99e02aed4f9e9efc44dcabc9cfd2b65e0727b4a40b89a1cd916d8d35a564629584af522acce69f7736981a489da41fa87b80d"
 
 [update]
 [update.modrinth]
 mod-id = "Wb5oqrBJ"
-version = "AGeagAPk"
+version = "JPQQJRAL"
