@@ -113,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "ef66050f9ff05169e58138543d7dcd4dde127d39b5a6607169e9079ae4919347"
+hash = "f7435be7687e41b2e084c13600fbe0f48893782946a822a5da9b4be9d2630b3c"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/rcc-webapi.pw.toml"
-hash = "93851764bb04ce123e5a420b80eb16f117e4a16260179a28db8a66d603b7aed7"
+hash = "6e4df13e53448a214043496222457b95307ba82e2c8f8a1ec3857c0618d800b1"
 metafile = true
 
 [[files]]
