@@ -108,17 +108,17 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "c1079c786922de32eb7603ae24653090beccae44286f96790bf7729fd5f33764"
+hash = "6d88550943d5e768ad47d3aa77d90eb5f93a4cbbd54fa4f3ac5bec4d6a5779e7"
 metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "3ca26d01369a75a9b36c1d57bca79c56744b3f603d1acb4b5abd690d788df4d0"
+hash = "5336d0ec4d7e6e5151bcde06a9e3bd37059a5f2c39dd21924e81e9d660329b49"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "d65b71835b0cf0aac6af2e1da344618f31b5e04e03f3126ac76c90536dca68b4"
+hash = "97930270e62043237fbf013a316a7cf16a0e931d6c209af95e51bcfc360037a7"
 metafile = true
 
 [[files]]
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "adc47dfe522bee5024622e8868b90017bcc6855a3ccb125c0daf12ba836cb1e5"
+hash = "1cf2580adb60fe19b5c1dda4e5ca5f235c53d2643158f0f3e31a211871af036c"
 metafile = true
 
 [[files]]
@@ -178,12 +178,12 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "99c856c75baa4e3240d7cf30eb8e4c3410eedcc376fb4657b0cf140008fd9e5d"
+hash = "5416337e747125b44160a67b2192f16cf31ea34599465c9f0934e086ecb91899"
 metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "4d3de174f8914ab199931bb4217ea32370046fc2463c8c84b6cbdf4b710a744c"
+hash = "fcfd264784dcda039d9efc0b3e47ef1f04521698761a34d2f20379d5f9c0fe26"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "c3190dcd456e0e009b62c5a54ad7fdf27f0311f4912b2d7d1c4a43ab264648ab"
+hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "ffa669a536c425213f5c94fce26a16aa26b62c04dbe17c808e740ddb69f45750"
+hash = "f41a1ff300a7e264ba1f275c19090ae722d4a151987253dc888f7c9c0a46103b"
 metafile = true
 
 [[files]]
@@ -402,4 +402,8 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "978e2b1c5dea3eb95edc8edb2cfa74a4008c93e49ca2be67260ac71ef9a0f038"
+hash = "92531a66af81435220f797d1bb93ef88aacc3d6de8de03a6275e3bcef960171a"
+
+[[files]]
+file = "unsup.toml.bak"
+hash = "aec10261477bc160e0797a7f9a2a8cbfaf4ec3eb822d08fe9c0a9c8d67517b6b"

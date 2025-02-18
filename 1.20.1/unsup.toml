@@ -1,18 +1,23 @@
-[flavor_groups.inventory_mod]
-name = "Inventory"
-description = "Which inventory helper would you like to use?"
+[flavor_groups.rendering_mod]
+name = "Rendering Mod"
+description = "Which rendering mod you'd like to use.\nIncreases or decreases performance depending on choices."
 side = "client"
+[[flavor_groups.rendering_mod.choices]]
+id = "no_rendering_mods"
+name = "None"
+description = "No rendering mods."
+[[flavor_groups.rendering_mod.choices]]
+id = "sodium"
+name = "Sodium"
+description = "Installs Sodium and Indium, greatly increasing performance."
+[[flavor_groups.rendering_mod.choices]]
+id = "iris"
+name = "Iris"
+description = "Installs Sodium, Indium, and Iris, increasing performance and providing support for OptiFine shaderpacks."
 
-[[flavor_groups.inventory_mod.choices]]
-id = "emi"
-name = "EMI"
-
-[[flavor_groups.inventory_mod.choices]]
-id = "rei"
-name = "Roughly Enough Items"
-
-[metafile.emi]
-flavors = "emi"
-
-[metafile.rei]
-flavors = "rei"
+[metafile.sodium]
+flavors = ["iris", "sodium"]
+[metafile.indium]
+flavors = ["iris", "sodium"]
+[metafile.iris]
+flavors = "iris"
