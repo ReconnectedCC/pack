@@ -69,6 +69,10 @@ file = "config/fancymenu/user_variables.db"
 hash = "730d952cfebc3ff430da39788af9a409a46697995325a0609347fecf80fba60d"
 
 [[files]]
+file = "config/figura.json"
+hash = "4dd7043ea95f88fba01031a28998ece7c06764948e3d868da0b5b1152cbc0b6c"
+
+[[files]]
 file = "config/switchcraft/sc-peripherals-client.toml"
 hash = "f62957536df46e1174969aef8b15764f501eec1a7a73636fa398e4a84cb57e0c"
 
@@ -88,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/asahi.pw.toml"
-hash = "4e53e1563f5950a8c67802302e81bd19001fabaee3a27fa39723482a0d838c50"
+hash = "5f22930e02a4432c8ab169ef4c845af8a444ec18b6636efeffabd9eacaa24355"
 metafile = true
 
 [[files]]
@@ -113,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "189d77ea3e22c3f7b848588ffd70241765546fb06afe1b2c99ed2caa83513ac8"
+hash = "67c9e903a9a49db9e00fdb34bf8dd528c1891251d4d3f0e1ce70f5d35cdb705d"
 metafile = true
 
 [[files]]
@@ -288,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "f41a1ff300a7e264ba1f275c19090ae722d4a151987253dc888f7c9c0a46103b"
+hash = "fefb4bfe1c07c4fb08834d86c0f7009bb2ee7634fe869032265c9add843c9de3"
 metafile = true
 
 [[files]]
@@ -377,13 +381,8 @@ hash = "351826e1e381ba6525d9521a968f3e76d5c985ae58464f3ae1ffcb0e05b1da7f"
 metafile = true
 
 [[files]]
-file = "mods/vivecraft-client.pw.toml"
-hash = "5af392d44d665f1be7acd8267f26f83ce977a0b0d92d7ed238243ca7e40e9899"
-metafile = true
-
-[[files]]
-file = "mods/vivecraft-server.pw.toml"
-hash = "512dfe45627c76432c2c296fb2863d70997ac0ac5b2f45dd1be6b9285fc32233"
+file = "mods/vivecraft.pw.toml"
+hash = "2cb6075b80b5bd950931e2f73cdfa051ce5b2222e09838eeabda39a45deb602f"
 metafile = true
 
 [[files]]
