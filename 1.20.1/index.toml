@@ -38,7 +38,7 @@ hash = "8bc3edd46c361b1133a06b5d956a68720daa51b9f888d06ee550d3a437f803a6"
 
 [[files]]
 file = "config/fancymenu/customization/rcc_proxyselector.txt"
-hash = "11d4c5001e7147a60681b5f581a1364ef071fbd4cb05b157393061005675e3f0"
+hash = "549fe1ee68c538d8364b6025d3bd8f40882ee1f2adf6e005980417cc040fc20d"
 
 [[files]]
 file = "config/fancymenu/dragger_metas.json"
@@ -54,7 +54,7 @@ hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
 file = "config/fancymenu/options.txt"
-hash = "8fd55de31d9cf55d2035efa3df6c9b0e8e122ef76727d9d8405278ff7f4eb983"
+hash = "bdbe861136b76947ff5ff231250a82c04ccd5115dcef956bd713f42719192683"
 
 [[files]]
 file = "config/fancymenu/ui_themes/dark.json"
