@@ -3,13 +3,13 @@ type = fancymenu_layout
 layout-meta {
   identifier = rcc_proxyselector
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1741437597705
+  last_edited_time = 1741438505682
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:992fec53-b624-4f78-9431-dcdd10faadb7-1741437540001] = [groups:][instances:]
+  [loading_requirement_container_meta:0dd4c514-e47a-417e-b028-0d4b64377783-1741438458890] = [groups:][instances:]
 }
 
 customization {
@@ -84,8 +84,8 @@ element {
 
 element {
   button_element_executable_block_identifier = f722e2cf-8cd5-4edf-b8f2-78adacd4009e-1729152277154
-  [executable_action_instance:70b9d7ef-05f9-42db-a8f3-9ce42c9fec03-1729153223663][action_type:set_variable] = selected_proxy:us-ky.reconnected.cc
-  [executable_action_instance:acdccd19-dd76-41a0-8663-ec16ba8f5859-1729498465836][action_type:set_variable] = selected_proxy_friendly:America
+  [executable_action_instance:70b9d7ef-05f9-42db-a8f3-9ce42c9fec03-1729153223663][action_type:set_variable] = selected_proxy:de-he.reconnected.cc
+  [executable_action_instance:acdccd19-dd76-41a0-8663-ec16ba8f5859-1729498465836][action_type:set_variable] = selected_proxy_friendly:Germany
   [executable_action_instance:b783599c-eaf6-4fdb-9910-a55ca1fa2c6b-1729153271131][action_type:closegui] = 
   [executable_block:f722e2cf-8cd5-4edf-b8f2-78adacd4009e-1729152277154][type:generic] = [executables:70b9d7ef-05f9-42db-a8f3-9ce42c9fec03-1729153223663;acdccd19-dd76-41a0-8663-ec16ba8f5859-1729498465836;b783599c-eaf6-4fdb-9910-a55ca1fa2c6b-1729153271131;]
   restartbackgroundanimations = true
@@ -99,8 +99,8 @@ element {
   widget_active_state_requirement_container_identifier = 17e2389f-e085-40a3-b20b-a1e9d6e3257f-1729152277154
   [loading_requirement_container_meta:17e2389f-e085-40a3-b20b-a1e9d6e3257f-1729152277154] = [groups:group_1729153700699;][instances:]
   [loading_requirement_group:group_1729153700699] = [group_mode:and]
-  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][group:group_1729153700699][req_id:a1e97a95-881e-492e-9b5e-9b5fb19c2c3b-1729153703375] = us-ky.reconnected.cc
-  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][group:group_1729153700699][req_id:ae1e6a48-61e8-4230-9e0a-21f65aca6b62-1729153733178] = :us-ky.reconnected.cc
+  [loading_requirement:fancymenu_loading_requirement_is_server_online][requirement_mode:if][group:group_1729153700699][req_id:a1e97a95-881e-492e-9b5e-9b5fb19c2c3b-1729153703375] = de-he.reconnected.cc
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if_not][group:group_1729153700699][req_id:ae1e6a48-61e8-4230-9e0a-21f65aca6b62-1729153733178] = :de-he.reconnected.cc
   element_type = custom_button
   instance_identifier = eb05473c-0551-47c5-8175-280396d9127f-1729152277154
   appearance_delay = no_delay
