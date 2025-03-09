@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "f41954cc5156913fe06f567393eb1079fe79460139723186480b3a9e8877f595"
+hash = "154d119771c61e7014461821d4a592117e25c287bf8dc3bdb8e4fba6dca1f2bf"
 metafile = true
 
 [[files]]
@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
-hash = "f299bce0a07d37682a1fbbde029b8210e6f94a222bbc5ce4385536b583e72271"
+hash = "5c9b0a9faf1d210b0d381ed796595e79cde8712a9de8235d74b6a00649d8c7f9"
 metafile = true
 
 [[files]]
