@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "1a5581c21c7fcb6845a61abb3fcd1362717e3a118b8e653d4312f1dd961333c9"
+hash = "16b7d51fbc15f9475d9c659a600d1aca15ebdafb7c01d933d87090fd3af2d787"
 metafile = true
 
 [[files]]
@@ -148,6 +148,11 @@ metafile = true
 [[files]]
 file = "mods/crossstitch.pw.toml"
 hash = "85b19948067c6abf0e47fd1227d41297980413d51b5042813409c36284cc4426"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "b593e03d14f7ed73f8c529e0975385ad6829f40581cbff7bcf37aa1e429323a6"
 metafile = true
 
 [[files]]
