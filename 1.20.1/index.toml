@@ -81,11 +81,6 @@ file = "config/switchcraft/sc-peripherals.toml"
 hash = "cda5e1675227d80fcac09e18e3635fd3b5e4db4bf679e17a04520b416d8e6d4f"
 
 [[files]]
-file = "mods/adaptiveview.pw.toml"
-hash = "f9f0f04f2bf98a7c43c05b8d8b534429549ede6a70458724378915c7242f7d3d"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -117,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "ba49a430b69f383ff45ddc01d1a3974f1c922bce8a2873d948333d32bd43da7e"
+hash = "9d56a3f15e4bcde5c46e992aab01a5d768aa58df5e8044581b9bbecd896fbc83"
 metafile = true
 
 [[files]]
