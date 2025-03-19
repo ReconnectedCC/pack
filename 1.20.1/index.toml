@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "9d56a3f15e4bcde5c46e992aab01a5d768aa58df5e8044581b9bbecd896fbc83"
+hash = "8afcbe972e133d88c8b14b7dc318e777b1deef8815743f21851ec75edd822e44"
 metafile = true
 
 [[files]]
