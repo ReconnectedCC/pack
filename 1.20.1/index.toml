@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "6d88550943d5e768ad47d3aa77d90eb5f93a4cbbd54fa4f3ac5bec4d6a5779e7"
+hash = "72b23c18039d65a955bfa111b87af4c0cbce8893e539d644e5a4449f3e473ec9"
 metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "7c53904d3b662f79c553e26dd1bace3500ecb2cd1783cbf369059a36f5457c83"
+hash = "ee63ea960bda0e0ec228545ec71349a6d546a5fa681f155832502527d3ad3e1c"
 metafile = true
 
 [[files]]
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "c7763ceed9929d3364030c01a4602628ebf46a028d55e7dd06f5aeb6280d36a3"
+hash = "2d44be0de504bd05e2f6f2e4644f5d7afd2401adcdff92c19871db204e121988"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
+hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
@@ -182,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
-hash = "5416337e747125b44160a67b2192f16cf31ea34599465c9f0934e086ecb91899"
+hash = "e3a146dc640566debff6d9e5171987ec1c58b0a59db1cc79d4486988e11a3666"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/flan.pw.toml"
-hash = "bbc7ffa030fadcd11046ecd3ac9de4d23920ae8ad10f58e561f088b9e96f179f"
+hash = "84aa4e27aac5f095fba25415d9e010c5dc219d8a462a4a81518a5b294d4bac38"
 metafile = true
 
 [[files]]
@@ -202,12 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "5eb043b70885b8c6de7cc05e7434145d9ffc79c8a142572f3d9d38bcf7e4c9ab"
+hash = "a65c82af91934b13f28034b1a5279167e7053c3f4e6a731d7b1f8935b1fc2081"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "fb4e650e35ee51774fcfa672741afe787995ed73ef35efdfe8bf2f9c9d0ba999"
+hash = "e5cfc1665aab8328231209125f208e5f25c9766b22747ce3f12d748aeb2358d3"
 metafile = true
 
 [[files]]
@@ -287,12 +287,12 @@ metafile = true
 
 [[files]]
 file = "mods/plethora-fabric.pw.toml"
-hash = "5c9b0a9faf1d210b0d381ed796595e79cde8712a9de8235d74b6a00649d8c7f9"
+hash = "f6fd37c39d00b41611c4390a81e2e6efced46dd4bd0aa40fb863fc0d634000c4"
 metafile = true
 
 [[files]]
 file = "mods/raknetify.pw.toml"
-hash = "fefb4bfe1c07c4fb08834d86c0f7009bb2ee7634fe869032265c9add843c9de3"
+hash = "5c22d4a6a604307f7689baa9d4ca3e9afe460b7960e0694b6424138a16037128"
 metafile = true
 
 [[files]]
@@ -347,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "7a0c254ad84eb5e75aad746271748ca42b4df51a27cc15cb751cf49974b672cc"
+hash = "712c2f97fb3ffd0d70397001425e8c0491e6e1ae5dfcd94a643a0c3906dd8850"
 metafile = true
 
 [[files]]
