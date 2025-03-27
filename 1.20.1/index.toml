@@ -91,11 +91,6 @@ hash = "5f22930e02a4432c8ab169ef4c845af8a444ec18b6636efeffabd9eacaa24355"
 metafile = true
 
 [[files]]
-file = "mods/bluemap.pw.toml"
-hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
-metafile = true
-
-[[files]]
 file = "mods/bobby.pw.toml"
 hash = "61dace492b0e569459d21ef8ceac589739ea9d25e1d2c0634d561b8d9a2f8975"
 metafile = true
@@ -112,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "d0630b2aa72b9750770c7f1ee7e15c879bfbe33cc220a846eefad0f106063d9a"
+hash = "9e2ee11a1d4b64b286fe6a1937cedb139a012f5d9c3cf88a18a5ba8e8855ffc5"
 metafile = true
 
 [[files]]
