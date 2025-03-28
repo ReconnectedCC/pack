@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/cerberus.pw.toml"
-hash = "9e2ee11a1d4b64b286fe6a1937cedb139a012f5d9c3cf88a18a5ba8e8855ffc5"
+hash = "477c12baf69534c080dfae396790d254a44090c0725d072fd6cf2bc766f442a7"
 metafile = true
 
 [[files]]
@@ -143,6 +143,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "b593e03d14f7ed73f8c529e0975385ad6829f40581cbff7bcf37aa1e429323a6"
+metafile = true
+
+[[files]]
+file = "mods/embeddedcomputer.pw.toml"
+hash = "0d8790db7975215bc98a2d1b5103f355dd109904fcdf19e200758529c09af273"
 metafile = true
 
 [[files]]
@@ -313,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/rcc-webapi.pw.toml"
 hash = "6e4df13e53448a214043496222457b95307ba82e2c8f8a1ec3857c0618d800b1"
+metafile = true
+
+[[files]]
+file = "mods/reciperemover.pw.toml"
+hash = "d0cd51e92381c8c6d48cda1600a18e8668e30b209936add30ee06f958fb65dc1"
 metafile = true
 
 [[files]]
