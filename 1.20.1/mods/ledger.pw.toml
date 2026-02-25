@@ -1,8 +1,8 @@
 name = "Ledger"
-filename = "ledger-1.2.8+local.jar"
+filename = "ledger-1.2.10+local.jar"
 side = "server"
 
 [download]
-url = "https://pack.reconnected.cc/files/1.20.1/ledger-1.2.8+local.jar"
+url = "https://pack.reconnected.cc/files/1.20.1/ledger-1.2.10+local.jar"
 hash-format = "sha256"
-hash = "3e661504f54d0e8a78ea8c8229afeca15cd12f93a9825455e4da79f2b49aa577"
+hash = "0a99191307012c8533737fb5f7fd03072e61f89b57ddb3f0837efdf74acfb970"

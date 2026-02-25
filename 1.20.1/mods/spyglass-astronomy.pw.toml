@@ -14,3 +14,4 @@ version = "aHHKkRuW"
 
 [option]
 optional = true
+description = "Draw your own constellations on an interactive and improved night sky. An immersive overhaul of the space skybox, including planets and better stars."

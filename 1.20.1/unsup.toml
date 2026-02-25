@@ -14,10 +14,74 @@ description = "Installs Sodium and Indium, greatly increasing performance."
 id = "iris"
 name = "Iris"
 description = "Installs Sodium, Indium, and Iris, increasing performance and providing support for OptiFine shaderpacks."
+[[flavor_groups.rendering_mod.choices]]
+id = "nvidium"
+name = "Nvidium"
+description = "Installs Sodium, Indium and Nvidium, greatly increasing performance for Nvidia GPUs newer than the 16xx series. <i>This mod won't do anything if you don't have an Nvidia GPU newer than the 16xx series</i>"
 
 [metafile.sodium]
-flavors = ["iris", "sodium"]
-[metafile.indium]
-flavors = ["iris", "sodium"]
+flavors = ["sodium", "nvidium", "iris"]
 [metafile.iris]
 flavors = "iris"
+[metafile.nvidium]
+flavors = ["nvidium"]
+[metafile.indium]
+flavors = ["sodium","nvidium","iris"]
+
+
+[flavor_groups.inventory]
+name = "Item and Recipe viewer Mod"
+description = "Select different Just Enough Items type mods."
+side = "client"
+
+[[flavor_groups.inventory.choices]]
+id = "no_inventory_mods"
+name = "None"
+description = "No Item and Recipe viewer Mod"
+
+[[flavor_groups.inventory.choices]]
+id = "emi"
+name = "EMI"
+description = "Use EMI, this is the recommended mod"
+
+[[flavor_groups.inventory.choices]]
+id = "rei"
+name = "REI"
+description = "Use Roughly Enough Items, this is an older mod that is more commonly used"
+
+[metafile.emi]
+flavors = "emi"
+[metafile.rei]
+flavors = "rei"
+
+
+
+[flavor_groups.chunkcaching]
+id = "chunkcaching_mods"
+name = "Chunk Caching Mods"
+description = "Chunk Caching Mods allow you to increase your render distance by caching chunks received from the server and displaying them at a later time. This allows you to simply see further if your computer is fast enough."
+
+[[flavor_groups.chunkcaching.choices]]
+id = "none"
+name = "None"
+
+[[flavor_groups.chunkcaching.choices]]
+id = "distanthorizons"
+name = "Distant Horizons"
+description = "Increases render distance by creating LOD (level of detail) chunks. Distant chunks will automatically show up without needing to travel there.\n \n <b>Added Computer Load:</b> Small"
+
+[[flavor_groups.chunkcaching.choices]]
+id = "bobby"
+name = "Bobby"
+description = "Increases render distance by holding on to and saving received chunks, and displaying them. You will need to travel to places in order to have them cached\n <b>Added Computer Load:</b> Large"
+
+[[flavor_groups.chunkcaching.choices]]
+id = "dh_and_bobby"
+name = "Both"
+description = "Installs both Bobby and Distant Horizons."
+
+[metafile.bobby]
+flavors = ["bobby","dh_and_bobby"]
+
+[metafile.distanthorizons]
+flavors = ["distanthorizons","dh_and_bobby"]

@@ -11,3 +11,8 @@ hash = "a842ae03f4477873934ad2a3bfeb50dcd75a668a91c072550c7db30dcd8825307bb74cfc
 [update.modrinth]
 mod-id = "s9gIPDom"
 version = "r3bPBsmg"
+
+[option]
+optional = true
+default = true
+description = "Customizable player models"

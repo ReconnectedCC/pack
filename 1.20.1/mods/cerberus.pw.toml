@@ -1,9 +1,9 @@
 name = "Cerberus"
-filename = "cerberus-16055.jar"
+filename = "cerberus-29480.jar"
 side = "client"
 
 [download]
-url = "https://pack.reconnected.cc/files/1.20.1/Cerberus-2.0.jar"
+url = "https://pack.reconnected.cc/files/1.20.1/Cerberus-4.0.0.jar"
 
 hash-format = "sha256"
-hash = "cf326f7fd22f466f2358c3f00ba0a9eb6f71012cfab631f6f2999a0b1d9ec1d1"
+hash = "fc01bad13c30a7e8e981c83e1329b58c58fd827055fc4c4aeef9f4d48361a260"

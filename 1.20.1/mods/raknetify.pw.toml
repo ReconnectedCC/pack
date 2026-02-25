@@ -1,17 +1,18 @@
 name = "Raknetify"
-filename = "raknetify-fabric-0.1.0+alpha.5.163-all.jar"
+filename = "raknetify-fabric-0.1.0+alpha.5.195-all.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5IovSY3u/versions/I3Me4GZY/raknetify-fabric-0.1.0%2Balpha.5.163-all.jar"
+url = "https://cdn.modrinth.com/data/5IovSY3u/versions/p9miLnd3/raknetify-fabric-0.1.0%2Balpha.5.195-all.jar"
 hash-format = "sha512"
-hash = "f7e8dd9c6ee36edb234a921b9d8e19812013cb0df4eca3a32c9f2acda5fbb60d5f9eeefa198a1c5498d67d71a7002cafecba6aafb99a958265d12f429a496a30"
+hash = "d9255859730db784f58e93250bd4f9c675ad6659fc3efa830e2c45f88f3e4ba6da92090e39dfbb886587543f8f3e96b42be4bf1fa0a57eb0b21ec20c68ce9272"
 
 [update]
 [update.modrinth]
 mod-id = "5IovSY3u"
-version = "I3Me4GZY"
+version = "p9miLnd3"
 
 [option]
 optional = true
+description = "Increase network performance and ping in rough situations by using UDP instead of TCP. May cause issues with ComputerCraft monitors not showing up. Disable if you're having networking issues."
 default = true

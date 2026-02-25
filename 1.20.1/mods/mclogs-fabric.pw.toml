@@ -10,3 +10,4 @@ hash = "60593f18cf98d16a6850a66ca2704117ebbe70fb4196506b5febab4b062a3618"
 [option]
 optional = true
 default = true
+description = "Easily upload your logs to mclo.gs if you need to share them."

@@ -1,9 +1,9 @@
 name = "SwitchCraft Peripherals"
-filename = "sc-peripherals.jar"
+filename = "sc-peripherals-1.10.6.jar"
 side = "both"
 
 [download]
-url = "https://pack.reconnected.cc/files/1.20.1/sc-peripherals.jar"
+url = "https://pack.reconnected.cc/files/1.20.1/sc-peripherals-1.10.6.jar"
 
 hash-format = "sha256"
-hash = "5c338c1b1755de9ab6a5d6c992650d2f4f80e13d17d534ca6162d60649bc7763"
+hash = "2681969a26d2f398a8777041c33220e4f01f83492136949565fe1718b05cfef4"

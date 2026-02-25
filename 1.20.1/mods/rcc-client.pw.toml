@@ -3,7 +3,7 @@ filename = "rcc-client.jar"
 side = "client"
 
 [download]
-url = "https://pack.reconnected.cc/files/1.20.1/rcc-client-1.4.0.jar"
+url = "https://pack.reconnected.cc/files/1.20.1/rcc-client-1.5.1.jar"
 
 hash-format = "sha256"
-hash = "36f10bd6b7a11069d1201e965532d2fd0245ac55f5210293267994380ec78f5f"
+hash = "6670044032fc3e04f2bd101754fbea6d7e54a11568de9c1046e0d9728ede1f16"

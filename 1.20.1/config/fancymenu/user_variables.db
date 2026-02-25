@@ -8,7 +8,7 @@ variable {
 
 variable {
   name = selected_proxy_friendly
-  value = Europe
+  value = Finland
   reset_on_launch = false
 }
 
